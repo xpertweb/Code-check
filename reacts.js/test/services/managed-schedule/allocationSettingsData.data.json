@@ -1,0 +1,11 @@
+[
+  {
+    "id": "8cdc7106-2901-11e9-9f5f-2305651fdab2",
+    "daysFromNowToTakeOnlyRequestedVisits": 1.00,
+    "disqualifyingButlerRating": 3.50,
+    "disqualifyingNumberOfVisits": 3.00,
+    "maxAllocationsForButlerPerRun": 2.00,
+    "premiumRatingPointsForRequestedVisitButlers": 0.10,
+    "premiumRatingPointsForFemaleButlers": 0.10
+  }
+]

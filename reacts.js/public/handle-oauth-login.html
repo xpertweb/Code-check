@@ -1,0 +1,13 @@
+<html>
+  <head>
+  </head>
+    <script>
+      setInterval(function(){
+        var dataToGiveAway = JSON.stringify({finishedLoginProcess:window.location.href.replace('#_=_','')});
+        if (window.opener){
+          window.opener.postMessage(dataToGiveAway,'*');
+        }
+        localStorage.setItem( "authenticationdata", dataToGiveAway );
+      },500); //try every half a second just in case
+     </script>
+</html>

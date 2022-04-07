@@ -1,0 +1,615 @@
+[
+  {
+    "butler": {
+      "id": "08ceeb42-1a46-11e9-9838-77e0dafed613",
+      "email": "fake-94088372@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Lady",
+      "lastName": "(Mel Butler)",
+      "phoneNumber": "00055318597",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": 1,
+      "cleaningExp": 3,
+      "freezeReason": null,
+      "managedSchedule": null,
+      "address": {
+        "id": "0f4a7040-1a46-11e9-a204-bb303ee7eb86",
+        "line1": "155-159 Hoddle Street Richmond ",
+        "line2": null,
+        "locale": "Melbourne",
+        "state": "VIC",
+        "postcode": "3000",
+        "country": "Australia",
+        "geopoint": {
+          "x": 144.9905982,
+          "y": -37.8155547
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "0e427892-a5f6-11e8-a439-9f5933b6ed25",
+      "email": "fake-84542009@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Irene2",
+      "lastName": "(Syd Butler)",
+      "phoneNumber": "00010273340",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": false,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": null,
+      "cleaningExp": null,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "1584e54a-a5f6-11e8-8cec-775dac3fe216",
+        "line1": "50 Bondi Road",
+        "line2": null,
+        "locale": "Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "country": "Australia",
+        "geopoint": {
+          "x": 151.2558872,
+          "y": -33.8924891
+        }
+      }
+    }
+  },
+
+  {
+    "butler": {
+      "id": "d89ce192-cd04-11e8-84ac-5f42f6d4b96f",
+      "email": "fake-43809717@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Odgerel",
+      "lastName": "(Syd Butler)",
+      "phoneNumber": "0008136548",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": null,
+      "cleaningExp": null,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "e07f352c-cd04-11e8-bb4d-cb91f9805f43",
+        "line1": "12 bonar street, Arncliffe NSW2205",
+        "line2": null,
+        "locale": "Sydney",
+        "state": "NSW",
+        "postcode": "2000",
+        "country": "Australia",
+        "geopoint": {
+          "x": 151.1453116,
+          "y": -33.9333648
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "d8d65696-195a-11e9-aab7-47cb40c7505b",
+      "email": "fake-40195629@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Dahianne",
+      "lastName": "(Mel Butler)",
+      "phoneNumber": "00086270542",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": 1,
+      "cleaningExp": 2,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "e1e30aa4-195a-11e9-9c89-0b6fb6731edf",
+        "line1": "35/8 crefden st",
+        "line2": null,
+        "locale": "Melbourne",
+        "state": "VIC",
+        "postcode": "3000",
+        "country": "Australia",
+        "geopoint": {
+          "x": 144.8728724,
+          "y": -37.7781304
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "5c73b9aa-0e5f-11e9-9667-b74805a5f7e9",
+      "email": "fake-3107866@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Henry",
+      "lastName": "(Syd Butler)",
+      "phoneNumber": "00070151902",
+      "facebookId": null,
+      "gender": "m",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": 2,
+      "cleaningExp": 1,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "646e1380-0e5f-11e9-8e84-6f4e0a0f26d1",
+        "line1": "500 Elizabeth St ",
+        "line2": null,
+        "locale": "Sydney",
+        "state": "NSW",
+        "postcode": "2000",
+        "country": "Australia",
+        "geopoint": {
+          "x": 151.2084358,
+          "y": -33.8891562
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "61bdbd84-f9d8-11e8-8f1d-0b375305ad71",
+      "email": "fake-89843895@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Sergio",
+      "lastName": "(Mel Butler)",
+      "phoneNumber": "00081680235",
+      "facebookId": null,
+      "gender": "m",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": 1,
+      "cleaningExp": 3,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "68e67c40-f9d8-11e8-bf1a-1b2c74bafc46",
+        "line1": "163 city rd",
+        "line2": null,
+        "locale": "Melbourne",
+        "state": "VIC",
+        "postcode": "3000",
+        "country": "Australia",
+        "geopoint": {
+          "x": 144.9626463,
+          "y": -37.8243289
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "658eb990-f12c-11e8-a5a4-3712b7fef519",
+      "email": "fake-36868172@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Sudina",
+      "lastName": "(Syd Butler)",
+      "phoneNumber": "000609556",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": false,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": 2,
+      "cleaningExp": 2,
+      "freezeReason": null,
+      "managedSchedule": false,
+      "address": {
+        "id": "6d5983da-f12c-11e8-bf56-f750900a39bb",
+        "line1": "Unit 34-38 Park Avenue,Burwood",
+        "line2": null,
+        "locale": "Sydney",
+        "state": "NSW",
+        "postcode": "2000",
+        "country": "Australia",
+        "geopoint": {
+          "x": 151.1013152,
+          "y": -33.8742491
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "6b540e06-fe84-11e8-82d4-77fd4d4a89a7",
+      "email": "fake-99659014@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Bibek",
+      "lastName": "(Syd Butler)",
+      "phoneNumber": "00019875737",
+      "facebookId": null,
+      "gender": "m",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": 1,
+      "cleaningExp": 2,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "74bf8f06-fe84-11e8-a87c-d7463741dda7",
+        "line1": "16 short street ,Carlton,NSW,2218",
+        "line2": null,
+        "locale": "Sydney",
+        "state": "NSW",
+        "postcode": "2000",
+        "country": "Australia",
+        "geopoint": {
+          "x": 151.122923,
+          "y": -33.966291
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "7960c134-f145-11e8-8e86-47c7201e1a7e",
+      "email": "fake-7251784@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Tamir",
+      "lastName": "(Syd Butler)",
+      "phoneNumber": "00087808745",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": 1,
+      "cleaningExp": 2,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "8301e434-f145-11e8-8298-d39034f536a9",
+        "line1": "5/1 brown st ashfield ",
+        "line2": null,
+        "locale": "Sydney",
+        "state": "NSW",
+        "postcode": "2000",
+        "country": "Australia",
+        "geopoint": {
+          "x": 151.1267774,
+          "y": -33.8888001
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "7baa29c2-cc5a-11e8-b8c5-5f2449b0ec99",
+      "email": "fake-48035054@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Natalia6",
+      "lastName": "(Syd Butler)",
+      "phoneNumber": "00070316429",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": 1,
+      "cleaningExp": 3,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "818aeb6a-cc5a-11e8-9640-4b06c7817213",
+        "line1": "52-62 wolli creek",
+        "line2": null,
+        "locale": "Sydney",
+        "state": "NSW",
+        "postcode": "2000",
+        "country": "Australia",
+        "geopoint": {
+          "x": 151.1534281,
+          "y": -33.9299813
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "89a4283c-e88b-11e8-a8d5-6ba9a5ef2af3",
+      "email": "fake-55422708@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Karan",
+      "lastName": "(Syd Butler)",
+      "phoneNumber": "00057743389",
+      "facebookId": null,
+      "gender": "m",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": 2,
+      "cleaningExp": 0,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "9367df3a-e88b-11e8-bf3c-0f75e76131d9",
+        "line1": "183/2-26 wattle crescent, Pyrmont",
+        "line2": null,
+        "locale": "Sydney",
+        "state": "NSW",
+        "postcode": "2000",
+        "country": "Australia",
+        "geopoint": {
+          "x": 151.1936322,
+          "y": -33.8737852
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "8f5d80ea-eee2-11e8-8960-1ff03a10c179",
+      "email": "fake-3770476@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Juan7",
+      "lastName": "(Syd Butler)",
+      "phoneNumber": "00021093128",
+      "facebookId": null,
+      "gender": "m",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": 0,
+      "cleaningExp": 0,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "a26ec5f4-eee2-11e8-b75d-c7ddf4ab815e",
+        "line1": "3 bayview st Arncliffe",
+        "line2": null,
+        "locale": "Sydney",
+        "state": "NSW",
+        "postcode": "2000",
+        "country": "Australia",
+        "geopoint": {
+          "x": 151.1399753,
+          "y": -33.942596
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "93637ed4-13df-11e9-b514-5746bf7533f2",
+      "email": "fake-70827841@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Amanda5",
+      "lastName": "(Mel Butler)",
+      "phoneNumber": "00085069092",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": false,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": 1,
+      "cleaningExp": 0,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "9b50ef00-13df-11e9-bc55-f3dc775fd8c0",
+        "line1": "8 Sutherland Street, VIC 3000, Melbourne",
+        "line2": null,
+        "locale": "Melbourne",
+        "state": "VIC",
+        "postcode": "3000",
+        "country": "Australia",
+        "geopoint": {
+          "x": 144.9609917,
+          "y": -37.811318
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "9ccd45e0-a602-11e8-b018-b7a59e77391d",
+      "email": "fake-3776650@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Suzane",
+      "lastName": "(Syd Butler)",
+      "phoneNumber": "00023927436",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": false,
+      "hasCar": false,
+      "maxTravelDistance": "13000.00",
+      "languageProf": null,
+      "cleaningExp": null,
+      "freezeReason": "Temporary freeze due to sickness - Remove freeze status today 21-Jan-2019. Ready to go back to work.",
+      "managedSchedule": false,
+      "address": {
+        "id": "a55cb40c-a602-11e8-ae7b-1fab19eb5f4f",
+        "line1": "50 Bondi Road",
+        "line2": null,
+        "locale": "Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "country": "Australia",
+        "geopoint": {
+          "x": 151.2558872,
+          "y": -33.8924891
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "a1d1c22e-f6bf-11e8-8866-43f8966a110f",
+      "email": "fake-72730511@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Florencia3",
+      "lastName": "(Syd Butler)",
+      "phoneNumber": "00057175835",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "5000.00",
+      "languageProf": 1,
+      "cleaningExp": 0,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "aa4e1ae2-f6bf-11e8-acb3-8b97751796f9",
+        "line1": "62 O´Donnell st. Bondi Beach",
+        "line2": null,
+        "locale": "Sydney",
+        "state": "NSW",
+        "postcode": "2000",
+        "country": "Australia",
+        "geopoint": {
+          "x": 151.2794686,
+          "y": -33.8846368
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "a70caf8e-a731-11e8-98bb-6ff289d208fb",
+      "email": "fake-94991523@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Gina",
+      "lastName": "(Mel Butler)",
+      "phoneNumber": "00023458650",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": false,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": 1,
+      "cleaningExp": 3,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "bbb39e34-a731-11e8-a225-bfd4746699cf",
+        "line1": "283 city road",
+        "line2": null,
+        "locale": "Southbank",
+        "state": "VIC",
+        "postcode": "3006",
+        "country": "Australia",
+        "geopoint": {
+          "x": 144.9590267,
+          "y": -37.827276
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "ecdfd8c0-22a6-11e8-a88d-a3669f383d38",
+      "email": "fake-19146556@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Yuliana",
+      "lastName": "(SYD BUTLER)",
+      "phoneNumber": "00023349657",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "15500.00",
+      "languageProf": null,
+      "cleaningExp": null,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "00ce7d78-22a7-11e8-b8d1-fb4b94f5032f",
+        "line1": "50 Bondi St.",
+        "line2": null,
+        "locale": "Bondi",
+        "state": "NSW",
+        "postcode": "2021",
+        "country": "Australia",
+        "geopoint": {
+          "x": 151.2558872,
+          "y": -33.8924891
+        }
+      }
+    }
+  },
+  {
+    "butler": {
+      "id": "f0982ae2-1a28-11e9-83a1-8398db15ec0f",
+      "email": "fake-68710418@email.com",
+      "password": "$2a$13$vra4I4Z6Gfc/8UblP58tVOvOCTUcg4dkA5hU3eXbJnfse3yGgfDau",
+      "firstName": "Maria46",
+      "lastName": "(Mel Butler)",
+      "phoneNumber": "00051938936",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "16000.00",
+      "languageProf": 1,
+      "cleaningExp": 2,
+      "freezeReason": null,
+      "managedSchedule": true,
+      "address": {
+        "id": "f7bcfa82-1a28-11e9-8643-3f844379f406",
+        "line1": "15 Blackwood Drive, Narre Warren",
+        "line2": null,
+        "locale": "Melbourne",
+        "state": "VIC",
+        "postcode": "3000",
+        "country": "Australia",
+        "geopoint": {
+          "x": 145.2991224,
+          "y": -38.0086917
+        }
+      }
+    }
+  }
+]

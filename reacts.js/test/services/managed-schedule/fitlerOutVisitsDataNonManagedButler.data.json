@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2019-02-04",
+    "serviceId": "f98afa60-0f26-11e9-bf68-d3d687881953",
+    "clientId": "f82486be-0f26-11e9-a089-875bd04a0af0",
+    "butlerId": "357af462-01b7-11e9-ad96-3347f814deca",
+    "hourlyPayOverride": null,
+    "serviceButlerComment": null,
+    "visitPlanId": "0252a08a-0f27-11e9-8758-e74adcc13385",
+    "visitPlanDateRange": "[2019-01-14,)",
+    "visitPlanRecurrence": "w",
+    "hourlyRateOverride": null,
+    "visitPlanComment": null,
+    "serviceAddressId": "fb9be634-0f26-11e9-aea1-53bd8b1a436f",
+    "windowStartTime": "08:00:00",
+    "windowEndTime": "17:00:00",
+    "duration": "02:00:00",
+    "geopoint": {
+      "lat": -37.7979629,
+      "lng": 145.0296551
+    }
+  }
+]

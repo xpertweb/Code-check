@@ -1,0 +1,2000 @@
+[
+  {
+    "id": "014cb136-11fb-11e9-bae1-83372378c868",
+    "clientId": "0049e736-11fb-11e9-be4e-c3722ed5ec2d",
+    "genderPref": "n",
+    "pets": false,
+    "errands": false,
+    "notes": "Access instructions:  Available on the time of the visit, \n\n Pets:  No \n\nTasks: General House Cleaning, 2 bedroom and 2 bathroom \n\nBooked by: Gelina Sale 08:34 am \n Backup for First Visit day and time: \n\nCx agree that visit cannot be guaranteed?: \n Invoicing instructions (if provided): Upload",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "0049e736-11fb-11e9-be4e-c3722ed5ec2d",
+      "firstName": "Collette",
+      "lastName": "Cameron",
+      "email": "fake-client-81025626@email.com",
+      "phoneNumber": "00077621979"
+    },
+    "address": {
+      "id": "0293f07c-11fb-11e9-9120-d39294906f70",
+      "line1": "202/296-300 Kingsway",
+      "line2": null,
+      "locale": "Caringbah",
+      "state": "NSW",
+      "postcode": "2229",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "c54a68f6-f697-11e7-8b9a-cf2176dc9e4a",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd2)",
+      "email": "fake-53162920@email.com",
+      "phoneNumber": "00082015102"
+    }
+  },
+  {
+    "id": "05654bc0-ee29-11e8-8197-6fa0d4b820d6",
+    "clientId": "03a888f6-ee29-11e8-b664-fb3edcf1b360",
+    "genderPref": "n",
+    "pets": true,
+    "errands": false,
+    "notes": "Access instructions: client at home\n\nPets: cat\n\nTasks: just cleaning\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin \n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?:\n\nInvoicing instructions (if provided)",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "03a888f6-ee29-11e8-b664-fb3edcf1b360",
+      "firstName": "Paulina",
+      "lastName": "Drysdale",
+      "email": "fake-client-71413378@email.com",
+      "phoneNumber": "00089961331"
+    },
+    "address": {
+      "id": "078a4b44-ee29-11e8-8de5-b388e013153a",
+      "line1": "3501/1 Nield Avenue",
+      "line2": null,
+      "locale": "Greenwich",
+      "state": "NSW",
+      "postcode": "2065",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "64bff96c-a356-11e8-b9a3-0b160ecd62b5",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd)",
+      "email": "fake-53991341@email.com",
+      "phoneNumber": "00026501498"
+    }
+  },
+  {
+    "id": "06d8e44a-abe8-11e8-9abc-63a480b32e12",
+    "clientId": "05b85262-abe8-11e8-bcce-5778e9bbe278",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": "Preferred visit day: no other day or time that works, \n\nAccess: partner will be at home, ongoing TBC\n\nCleaning",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "05b85262-abe8-11e8-bcce-5778e9bbe278",
+      "firstName": "David",
+      "lastName": "Oxley",
+      "email": "fake-client-67437327@email.com",
+      "phoneNumber": "00042295917"
+    },
+    "address": {
+      "id": "07f7cbfc-abe8-11e8-b313-ef039368d161",
+      "line1": "8 Lansell Crescent",
+      "line2": null,
+      "locale": "Camberwell",
+      "state": "VIC",
+      "postcode": "3124",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "69043426-1d9a-11e8-9bd6-4b80876ea8ba",
+      "firstName": "Fernanda4",
+      "lastName": "(Mel Butler)",
+      "email": "fake-96777378@email.com",
+      "phoneNumber": "00051878899"
+    }
+  },
+  {
+    "id": "072fc472-f1d9-11e8-896b-031490019da9",
+    "clientId": "05cf5688-f1d9-11e8-818d-936c4522de11",
+    "genderPref": "f",
+    "pets": false,
+    "errands": false,
+    "notes": "Access instructions: client at home\n\nPets: none\n\nTasks: just cleaning\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?:\n\nInvoicing instructions (if provided)",
+    "visitGuaranteed": true,
+    "languageProf": 1,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "05cf5688-f1d9-11e8-818d-936c4522de11",
+      "firstName": "Marsha",
+      "lastName": "Dhansraj",
+      "email": "fake-client-7254842@email.com",
+      "phoneNumber": "000650091"
+    },
+    "address": {
+      "id": "08c9ee5c-f1d9-11e8-902b-8fc0c27d906a",
+      "line1": "14 Delta Avenue",
+      "line2": null,
+      "locale": "Coburg North",
+      "state": "VIC",
+      "postcode": "3058",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "email": "fake-30118185@email.com",
+      "phoneNumber": "00094929353"
+    }
+  },
+  {
+    "id": "0bf2be92-c5c5-11e7-8775-8b5e18ca9b78",
+    "clientId": "6aa5a1b6-c52f-11e7-b1ba-977e7d679f43",
+    "genderPref": "n",
+    "pets": false,
+    "errands": false,
+    "notes": "Are quite picky picky, eye to clean, may look at booking extra hrs for husbands office in future, old address: 102/135 Point St, Pyrmont",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "6aa5a1b6-c52f-11e7-b1ba-977e7d679f43",
+      "firstName": "Ei Leen",
+      "lastName": "Low",
+      "email": "fake-client-63962868@email.com",
+      "phoneNumber": "00070461542"
+    },
+    "address": {
+      "id": "296b73d8-c5c5-11e7-bc6b-13e20094d082",
+      "line1": "59 Auburn Street",
+      "line2": null,
+      "locale": "Hunters Hill",
+      "state": "NSW",
+      "postcode": "2110",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "6f6ae528-72d4-11e8-a4bb-23b3041944ce",
+      "firstName": "Augustina",
+      "lastName": "(Syd Butler)",
+      "email": "fake-99282889@email.com",
+      "phoneNumber": "00031064121"
+    }
+  },
+  {
+    "id": "1cf8af9a-0e20-11e9-9d24-072523344ce5",
+    "clientId": "1b9e1392-0e20-11e9-ad67-f35badc30171",
+    "genderPref": "n",
+    "pets": true,
+    "errands": false,
+    "notes": "Access instructions: will provide a key\n\nPets: dog\n\nTasks: just cleaning\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?: Yes. OK to cancel if no butler\n\nInvoicing instructions (if provided)",
+    "visitGuaranteed": false,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "1b9e1392-0e20-11e9-ad67-f35badc30171",
+      "firstName": "Karina",
+      "lastName": "Bloomfield",
+      "email": "fake-client-19337342@email.com",
+      "phoneNumber": "00079837952"
+    },
+    "address": {
+      "id": "1e9c0892-0e20-11e9-9300-df6e73792a1a",
+      "line1": "4/28 Buchanan Road",
+      "line2": null,
+      "locale": "Berwick",
+      "state": "VIC",
+      "postcode": "3806",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "email": "fake-30118185@email.com",
+      "phoneNumber": "00094929353"
+    }
+  },
+  {
+    "id": "2163251c-1ddc-11e9-8819-776a8356a240",
+    "clientId": "2043e4b4-1ddc-11e9-89db-8339fe7a468d",
+    "genderPref": "n",
+    "pets": false,
+    "errands": false,
+    "notes": "Access instructions: client at home\n\nPets: none\n\nTasks: mainly cleaning, folding,ironing\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?:\n\nInvoicing instructions (if provided)",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "2043e4b4-1ddc-11e9-89db-8339fe7a468d",
+      "firstName": "Michaela",
+      "lastName": "Durrant",
+      "email": "fake-client-62933853@email.com",
+      "phoneNumber": "00041426427"
+    },
+    "address": {
+      "id": "22b17040-1ddc-11e9-a825-27a174243a4d",
+      "line1": "7 Karilla Avenue",
+      "line2": null,
+      "locale": "Lane Cove North",
+      "state": "NSW",
+      "postcode": "2066",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "c54a68f6-f697-11e7-8b9a-cf2176dc9e4a",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd2)",
+      "email": "fake-53162920@email.com",
+      "phoneNumber": "00082015102"
+    }
+  },
+  {
+    "id": "2249d900-13b7-11e9-89cc-0ba5d0d1d03a",
+    "clientId": "20d009e6-13b7-11e9-9059-57c10b8fe651",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": "Access instructions: client at home\n\nPets: dogs\n\nTasks: mainly cleaning,laundry,folding\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?: YES\n\nInvoicing instructions (if provided)",
+    "visitGuaranteed": false,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "20d009e6-13b7-11e9-9059-57c10b8fe651",
+      "firstName": "Laura",
+      "lastName": "Bello",
+      "email": "fake-client-49487241@email.com",
+      "phoneNumber": "00038033723"
+    },
+    "address": {
+      "id": "24192876-13b7-11e9-a990-e75238c2a93a",
+      "line1": "22 Reservoir Crescent",
+      "line2": null,
+      "locale": "Rowville",
+      "state": "VIC",
+      "postcode": "3178",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "c35977da-a358-11e8-a8ed-5bc7f65ecd26",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel RECRUIT 2)",
+      "email": "fake-75707765@email.com",
+      "phoneNumber": "00024074649"
+    }
+  },
+  {
+    "id": "2ef5eaa0-152d-11e9-8e03-af3ea421e3c2",
+    "clientId": "2e05bb34-152d-11e9-903b-7b02d0d15f4f",
+    "genderPref": "f",
+    "pets": false,
+    "errands": false,
+    "notes": "Access instructions: will be there on the first  visit \nPets: N/A\nTasks: General house cleaning all areas of the house including bathroom, kitchen, toilet etc. \n\n______\n\nBooked by: Aileen Sale\nBackup for First Visit day and time: \nCx agree that visit cannot be guaranteed?: \nInvoicing instructions (if provided) :\n\n\nOngoing: Sunday\tFortnightly\t02:00:00\t08:00:00 - 17:00:00\t2019-02-03 - Present\tDefault\t\nFV Sunday\tOne off\t02:00:00\t09:00:00 - 11:00:00\t2019-01-20\tDefault",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "2e05bb34-152d-11e9-903b-7b02d0d15f4f",
+      "firstName": "Mireille",
+      "lastName": "Pons",
+      "email": "fake-client-2833125@email.com",
+      "phoneNumber": "00072194129"
+    },
+    "address": {
+      "id": "303a7fac-152d-11e9-aa15-4bb32eaa520e",
+      "line1": "14/14-18 William Street",
+      "line2": null,
+      "locale": "Hornsby",
+      "state": "NSW",
+      "postcode": "2077",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "64bff96c-a356-11e8-b9a3-0b160ecd62b5",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd)",
+      "email": "fake-53991341@email.com",
+      "phoneNumber": "00026501498"
+    }
+  },
+  {
+    "id": "393cf25c-2201-11e9-8a86-3b6a46f68dd3",
+    "clientId": "37adcbaa-2201-11e9-9686-a7bd290c12a8",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": "NOTES:\n\nAccess instructions: at home during the visit\nPets: 1 dog\nTasks: General housecleaning services etc\nAlternative contact (if provided)\n——\nBooked by: Rosabelle (Sale)\nBackup for First Visit day and time:\nCx agree that visit cannot be guaranteed?:\nInvoicing instructions (if provided)",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "37adcbaa-2201-11e9-9686-a7bd290c12a8",
+      "firstName": "Jayne",
+      "lastName": "Campbell",
+      "email": "fake-client-32409414@email.com",
+      "phoneNumber": "00069071000"
+    },
+    "address": {
+      "id": "3adaa9ba-2201-11e9-bcf1-178f042207a0",
+      "line1": "126 Pakington Street",
+      "line2": null,
+      "locale": "Kew",
+      "state": "VIC",
+      "postcode": "3101",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "email": "fake-30118185@email.com",
+      "phoneNumber": "00094929353"
+    }
+  },
+  {
+    "id": "3b47dbd0-ef02-11e7-81fc-1bc243a36c94",
+    "clientId": "bda24b8e-ec54-11e7-9a4a-5fffd1e39f68",
+    "genderPref": "f",
+    "pets": false,
+    "errands": true,
+    "notes": "1 bed\n\nLockbox Code is 718 ",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "bda24b8e-ec54-11e7-9a4a-5fffd1e39f68",
+      "firstName": "Georgina",
+      "lastName": "Lee",
+      "email": "fake-client-85340203@email.com",
+      "phoneNumber": "00044401568"
+    },
+    "address": {
+      "id": "4d16ed42-ef02-11e7-8d9b-afe4d0174f4a",
+      "line1": "504C/ 11 Shamrock Street ",
+      "line2": null,
+      "locale": "Abbotsford ",
+      "state": "VIC",
+      "postcode": "3067",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "email": "fake-30118185@email.com",
+      "phoneNumber": "00094929353"
+    }
+  },
+  {
+    "id": "41aa0694-c90c-11e8-8a94-531c391007f1",
+    "clientId": "3fd27810-c90c-11e8-8c63-5725d4ddbbc9",
+    "genderPref": "f",
+    "pets": false,
+    "errands": false,
+    "notes": "Access instructions: Client or another family member will be at home\n\nPets: none\n\nTasks: clean 3 bed and 2 bed, basic housekeeping, vacuuming, shower cleaning, dusting, toilets\n\nAlternative contact (if provided):\n\n——\n[Admin only]\nBooked by:\nBackup for First Visit day and time: Monday 9am - or after hours, Fridays\nCx agree that visit cannot be guaranteed?:\nInvoicing instructions (if provided):",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "3fd27810-c90c-11e8-8c63-5725d4ddbbc9",
+      "firstName": "Ganga",
+      "lastName": "Priyadarshini",
+      "email": "fake-client-94454249@email.com",
+      "phoneNumber": "0002375264"
+    },
+    "address": {
+      "id": "4339d020-c90c-11e8-b1e6-ff7ee25cc762",
+      "line1": "1/14 Carmichael Road",
+      "line2": null,
+      "locale": "Oakleigh East",
+      "state": "VIC",
+      "postcode": "3166",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "email": "fake-30118185@email.com",
+      "phoneNumber": "00094929353"
+    }
+  },
+  {
+    "id": "42d0ca28-d364-11e8-940f-03829f0828c2",
+    "clientId": "412cee72-d364-11e8-bb92-83a8f42a6229",
+    "genderPref": "f",
+    "pets": false,
+    "errands": false,
+    "notes": "Access instructions: Client will be at home\r\nPets: No\r\nButler: female\r\nTasks: Do the laundry and fold the clothes\r\nAlternative contact\r\n——\r\nBooked by: Dennis' Sale\r\nOct 23, Tuesday 9:00 am - 12 noon\r\nWeekly - 3 hours\r\nBackup for First Visit day and time:\r\n Oct 24, Wednesday 9am - 12noon\r\nCx agree that visit cannot be guaranteed?: Yes\r\nInvoicing instructions: N/A",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "412cee72-d364-11e8-bb92-83a8f42a6229",
+      "firstName": "Liberty",
+      "lastName": "Biggins",
+      "email": "fake-client-96305614@email.com",
+      "phoneNumber": "00038720915"
+    },
+    "address": {
+      "id": "50fda648-d364-11e8-97a4-5bc5ce799f69",
+      "line1": "101 Finch Street",
+      "line2": null,
+      "locale": "Malvern East",
+      "state": "VIC",
+      "postcode": "3145",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "b04feec0-b970-11e8-a264-eb92132ec635",
+      "firstName": "Maria17",
+      "lastName": "(Mel Butler)",
+      "email": "fake-85658834@email.com",
+      "phoneNumber": "00085397820"
+    }
+  },
+  {
+    "id": "454b153c-9a99-11e8-9210-972f6ff82106",
+    "clientId": "44132e8e-9a99-11e8-a1af-8b7d750181f0",
+    "genderPref": "f",
+    "pets": false,
+    "errands": false,
+    "notes": "Alvin's Sale\r\n\r\npreferred date: sun 19Aug\r\n\r\naccess:always home\r\n\r\ncleaning, tidying, organize cabinet/drawers",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "44132e8e-9a99-11e8-a1af-8b7d750181f0",
+      "firstName": "Shabnam",
+      "lastName": "Shayan",
+      "email": "fake-client-1465911@email.com",
+      "phoneNumber": "00067864676"
+    },
+    "address": {
+      "id": "46962116-9a99-11e8-a1b0-575c47ae09c5",
+      "line1": "607/2 Tower A Help Street",
+      "line2": null,
+      "locale": "Chatswood",
+      "state": "NSW",
+      "postcode": "2067",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "64bff96c-a356-11e8-b9a3-0b160ecd62b5",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd)",
+      "email": "fake-53991341@email.com",
+      "phoneNumber": "00026501498"
+    }
+  },
+  {
+    "id": "468840f4-ed52-11e7-8a36-6b4db8ddd022",
+    "clientId": "92d7fe64-ebbc-11e7-85c1-bb454cd2071a",
+    "genderPref": "f",
+    "pets": false,
+    "errands": true,
+    "notes": "START 12 Jan at 5pm - Fri",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "92d7fe64-ebbc-11e7-85c1-bb454cd2071a",
+      "firstName": "Jeremy",
+      "lastName": "Bru",
+      "email": "fake-client-89652298@email.com",
+      "phoneNumber": "00099255854"
+    },
+    "address": {
+      "id": "6875b318-ed52-11e7-b340-c31482b8162b",
+      "line1": "b610/8 Grosvenor St",
+      "line2": null,
+      "locale": "Abbotsford",
+      "state": "VIC",
+      "postcode": "3067",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "4264c3b0-ef1f-11e8-a064-8f587bfdf86b",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel RECRUIT)",
+      "email": "fake-89131700@email.com",
+      "phoneNumber": "00030536805"
+    }
+  },
+  {
+    "id": "4aca2012-2062-11e9-8e63-3fb38bd0138d",
+    "clientId": "49add034-2062-11e9-bc36-abca643e3e3d",
+    "genderPref": "n",
+    "pets": true,
+    "errands": false,
+    "notes": "Access instructions: client at home\n\nPets: dog\n\nTasks: mainly cleaning\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?: Yes. OK to cancel if no butler\n\nInvoicing instructions (if provided)",
+    "visitGuaranteed": false,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "49add034-2062-11e9-bc36-abca643e3e3d",
+      "firstName": "Annmarie",
+      "lastName": "Jeffery",
+      "email": "fake-client-43049036@email.com",
+      "phoneNumber": "00064560605"
+    },
+    "address": {
+      "id": "4c8422cc-2062-11e9-8de8-07b3085f495a",
+      "line1": "10 Middlesex Court",
+      "line2": null,
+      "locale": "Cranbourne North",
+      "state": "VIC",
+      "postcode": "3977",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "email": "fake-30118185@email.com",
+      "phoneNumber": "00094929353"
+    }
+  },
+  {
+    "id": "57fd66e2-a1e9-11e8-bdad-2b3305a7adbd",
+    "clientId": "5677ca6a-a1e9-11e8-8f3d-cfab75d00955",
+    "genderPref": "n",
+    "pets": true,
+    "errands": false,
+    "notes": "Preferred visit day: Morning any day except Friday\n\nAccess: client at home, spare key",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "5677ca6a-a1e9-11e8-8f3d-cfab75d00955",
+      "firstName": "Annika",
+      "lastName": "Kristensen",
+      "email": "fake-client-32801900@email.com",
+      "phoneNumber": "00042768565"
+    },
+    "address": {
+      "id": "59990024-a1e9-11e8-8f3e-cf5b51cefa4a",
+      "line1": "77 Blyth Street",
+      "line2": null,
+      "locale": "Brunswick",
+      "state": "VIC",
+      "postcode": "3056",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "69043426-1d9a-11e8-9bd6-4b80876ea8ba",
+      "firstName": "Fernanda4",
+      "lastName": "(Mel Butler)",
+      "email": "fake-96777378@email.com",
+      "phoneNumber": "00051878899"
+    }
+  },
+  {
+    "id": "59e67ab2-0e3a-11e9-b5fb-8f68e22228f1",
+    "clientId": "581f6518-0e3a-11e9-8d5a-f3d18534495d",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": "NOTES:\n\nAccess instructions: at home during the visit\nPets: N/A\nTasks: General housecleaning services etc\nAlternative contact (if provided)\n——\nBooked by: Rosabelle (Sale)\nBackup for First Visit day and time:\nCx agree that visit cannot be guaranteed?:\nInvoicing instructions (if provided)",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "581f6518-0e3a-11e9-8d5a-f3d18534495d",
+      "firstName": "Judy",
+      "lastName": "Edmondson",
+      "email": "fake-client-41139938@email.com",
+      "phoneNumber": "00038903361"
+    },
+    "address": {
+      "id": "5bd30e76-0e3a-11e9-85b0-83f7dfd3f174",
+      "line1": "26 Crichton Lane",
+      "line2": null,
+      "locale": "Kensington",
+      "state": "VIC",
+      "postcode": "3031",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "email": "fake-30118185@email.com",
+      "phoneNumber": "00094929353"
+    }
+  },
+  {
+    "id": "67e1c912-1468-11e9-a4d0-93bf5369793b",
+    "clientId": "66c12d16-1468-11e9-b051-efc46c8e308d",
+    "genderPref": "n",
+    "pets": false,
+    "errands": false,
+    "notes": "Access instructions: client at home\n\nPets: none\n\nTasks: just cleaning\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?: YES\n\nInvoicing instructions (if provided)\n\n\nOngoing: Sunday\tFortnightly\t02:00:00\t08:00:00 - 12:00:00\t2019-01-27 - Present\tDefault",
+    "visitGuaranteed": false,
+    "languageProf": 1,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "66c12d16-1468-11e9-b051-efc46c8e308d",
+      "firstName": "Nina",
+      "lastName": "Dayani",
+      "email": "fake-client-75435807@email.com",
+      "phoneNumber": "00062056185"
+    },
+    "address": {
+      "id": "69362312-1468-11e9-8ebd-937acce5ae15",
+      "line1": "2406/150 Epping Road",
+      "line2": null,
+      "locale": "Lane Cove",
+      "state": "NSW",
+      "postcode": "2066",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "64bff96c-a356-11e8-b9a3-0b160ecd62b5",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd)",
+      "email": "fake-53991341@email.com",
+      "phoneNumber": "00026501498"
+    }
+  },
+  {
+    "id": "7c68d09a-db30-11e8-a628-076416184634",
+    "clientId": "44a68a08-dafe-11e8-92be-cf9ae1c9df7c",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": "Access instructions: client at home\n\nPets: dog\n\nTasks: just cleaning\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?: Yes. OK to cancel if no butler\n\nInvoicing instructions (if provided)",
+    "visitGuaranteed": true,
+    "languageProf": null,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "44a68a08-dafe-11e8-92be-cf9ae1c9df7c",
+      "firstName": "Desiree",
+      "lastName": "Kisnorbo",
+      "email": "fake-client-3256946@email.com",
+      "phoneNumber": "0003544003"
+    },
+    "address": {
+      "id": "9dafbce6-db30-11e8-a03c-33ae2c29b7da",
+      "line1": "38 Red Brush Drive",
+      "line2": null,
+      "locale": "Keysborough ",
+      "state": "VIC",
+      "postcode": "3173",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "4264c3b0-ef1f-11e8-a064-8f587bfdf86b",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel RECRUIT)",
+      "email": "fake-89131700@email.com",
+      "phoneNumber": "00030536805"
+    }
+  },
+  {
+    "id": "7cb2643c-1855-11e9-8f33-3fa792825eab",
+    "clientId": "7ad117d0-1855-11e9-8f21-1bd05ed2539b",
+    "genderPref": "f",
+    "pets": false,
+    "errands": false,
+    "notes": "Access instructions: client at home\n\nPets: none\n\nTasks: just cleaning\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?: Yes. OK to cancel if no butler\n\nInvoicing instructions (if provided)",
+    "visitGuaranteed": false,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "7ad117d0-1855-11e9-8f21-1bd05ed2539b",
+      "firstName": "Kiera",
+      "lastName": "Nunez - Reyes",
+      "email": "fake-client-60254998@email.com",
+      "phoneNumber": "00094933664"
+    },
+    "address": {
+      "id": "7e2f5e14-1855-11e9-978f-93645b184f59",
+      "line1": "4/459 Beach Road",
+      "line2": null,
+      "locale": "Beaumaris",
+      "state": "VIC",
+      "postcode": "3193",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "email": "fake-30118185@email.com",
+      "phoneNumber": "00094929353"
+    }
+  },
+  {
+    "id": "7d25d736-22c9-11e9-a42f-ff501aa61243",
+    "clientId": "6aa5a1b6-c52f-11e7-b1ba-977e7d679f43",
+    "genderPref": "n",
+    "pets": false,
+    "errands": false,
+    "notes": "Are quite picky picky, eye to clean, may look at booking extra hrs for husbands office in future, old address: 102/135 Point St, Pyrmont",
+    "visitGuaranteed": false,
+    "languageProf": 1,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "6aa5a1b6-c52f-11e7-b1ba-977e7d679f43",
+      "firstName": "Ei Leen",
+      "lastName": "Low",
+      "email": "fake-client-63962868@email.com",
+      "phoneNumber": "00070461542"
+    },
+    "address": {
+      "id": "92697f58-22c9-11e9-ad51-07af3fbfd219",
+      "line1": "59 Auburn Street",
+      "line2": null,
+      "locale": "Hunters Hill",
+      "state": "NSW",
+      "postcode": "2110",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "64bff96c-a356-11e8-b9a3-0b160ecd62b5",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd)",
+      "email": "fake-53991341@email.com",
+      "phoneNumber": "00026501498"
+    }
+  },
+  {
+    "id": "89ddfd78-151d-11e9-a252-07f302c86bb3",
+    "clientId": "884f4b56-151d-11e9-bef4-630aabd77530",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": "Access instructions:  Available on the time of the visit, \n\n Pets: Yes, \n\nTasks: bathrooms cleaned, \n\nBooked by: Gelina Sale  8:19 am \n Backup for First Visit day and time: \n\nCx agree that visit cannot be guaranteed?: \n Invoicing instructions (if provided):Upload\n\nRequesting for the list of cleaning products needed for the cleaning, \nCx ask if he could possibly have south american butler. ",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "884f4b56-151d-11e9-bef4-630aabd77530",
+      "firstName": "Nan",
+      "lastName": "in",
+      "email": "fake-client-26687003@email.com",
+      "phoneNumber": "00044790733"
+    },
+    "address": {
+      "id": "8b442ab6-151d-11e9-92d3-f3dfed98c7dd",
+      "line1": "29 Parkland Road",
+      "line2": null,
+      "locale": "Carlingford",
+      "state": "NSW",
+      "postcode": "2118",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "03654c28-d73e-11e8-9958-ffa527b13d32",
+      "firstName": "Mariana4",
+      "lastName": "(Syd Butler)",
+      "email": "fake-33897461@email.com",
+      "phoneNumber": "00088583239"
+    }
+  },
+  {
+    "id": "8b196ada-c908-11e8-84c9-5ba54e944d57",
+    "clientId": "885cafa0-c908-11e8-94dd-13609bcbcfd4",
+    "genderPref": "n",
+    "pets": false,
+    "errands": false,
+    "notes": "Access instructions: Client at home\n\nPets: none\n\nTasks: Focus on cleaning in the home cleaning, some clothes folding may be required\n\nAlternative contact (if provided): nona\n\n——\n[Admin only]\nBooked by: Ronnie\nBackup for First Visit day and time: Sat 10am\nCx agree that visit cannot be guaranteed?: N/A\nInvoicing instructions (if provided): N/A",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "885cafa0-c908-11e8-94dd-13609bcbcfd4",
+      "firstName": "Arijit",
+      "lastName": "Sarkar",
+      "email": "fake-client-57896928@email.com",
+      "phoneNumber": "00065819269"
+    },
+    "address": {
+      "id": "8cd197bc-c908-11e8-8a4a-239998c42c79",
+      "line1": "1/20 Sailors Bay Road",
+      "line2": null,
+      "locale": "Northbridge",
+      "state": "NSW",
+      "postcode": "2063",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "64bff96c-a356-11e8-b9a3-0b160ecd62b5",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd)",
+      "email": "fake-53991341@email.com",
+      "phoneNumber": "00026501498"
+    }
+  },
+  {
+    "id": "8d170e38-28df-11e8-bbb2-4b88bb9ec17d",
+    "clientId": "4e357b1a-28d9-11e8-b2ec-e7ee4bd6a91f",
+    "genderPref": "n",
+    "pets": false,
+    "errands": false,
+    "notes": "Currently her partner's number while she's away. Her original number is +61407566645  and should be contacted there after 26 July.\n\nAccess: lockbox\n\nInstrutions for Kate's house. \n✓use mop and vaccum on the floor, \n✓pull out the living room and master bedroom, \n✓clean the 2 bathrooms and shower, \n✓change the sheets and make the bed, \n✓fold the clean clothes that are in the basket, \n✓clean the kitchen, store the items that are in the dishwasher and put the dirty objects in it. \n✓Clean, dust and organize the room. \n✓take out all the garbage (kitchen, bathroom) and put out.",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "4e357b1a-28d9-11e8-b2ec-e7ee4bd6a91f",
+      "firstName": "Kate",
+      "lastName": "Herbert",
+      "email": "fake-client-14254021@email.com",
+      "phoneNumber": "0003493440"
+    },
+    "address": {
+      "id": "a951582a-af11-11e8-9a28-53b77a0609b7",
+      "line1": "26/184 Noone St ",
+      "line2": null,
+      "locale": "Clifton Hill",
+      "state": "VIC",
+      "postcode": "3068",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "69043426-1d9a-11e8-9bd6-4b80876ea8ba",
+      "firstName": "Fernanda4",
+      "lastName": "(Mel Butler)",
+      "email": "fake-96777378@email.com",
+      "phoneNumber": "00051878899"
+    }
+  },
+  {
+    "id": "8e552f7c-eed9-11e7-b2d2-4f33b1619c2e",
+    "clientId": "40c29630-ebca-11e7-9c84-b32ffb2b795e",
+    "genderPref": "f",
+    "pets": false,
+    "errands": true,
+    "notes": "If possible a visit time between 10-1pm and 3pm - late, would be best as her baby naps outside these times",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "40c29630-ebca-11e7-9c84-b32ffb2b795e",
+      "firstName": "Pesha",
+      "lastName": "Krishnan",
+      "email": "fake-client-69684455@email.com",
+      "phoneNumber": "00078339019"
+    },
+    "address": {
+      "id": "a69dd444-eed9-11e7-8abf-079c857e8093",
+      "line1": "20A Belmont Avenue",
+      "line2": null,
+      "locale": "Glen Iris  ",
+      "state": "VIC",
+      "postcode": "3146",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "69043426-1d9a-11e8-9bd6-4b80876ea8ba",
+      "firstName": "Fernanda4",
+      "lastName": "(Mel Butler)",
+      "email": "fake-96777378@email.com",
+      "phoneNumber": "00051878899"
+    }
+  },
+  {
+    "id": "95e6677a-1d12-11e9-b898-47d3dcb84843",
+    "clientId": "94658d22-1d12-11e9-a8f5-cf065cb57b90",
+    "genderPref": "n",
+    "pets": false,
+    "errands": false,
+    "notes": "Access instructions:  Available on the time of the visit.\n\n Pets: No \n\nTasks: General House Cleaning, \n\nBooked by: Gelina Sale 11:21 AM \n Backup for First Visit day and time: \n\nCx agree that visit cannot be guaranteed?:\n Invoicing instructions (if provided): Upload",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "94658d22-1d12-11e9-a8f5-cf065cb57b90",
+      "firstName": "AMY",
+      "lastName": "OCALLAGHAN",
+      "email": "fake-client-69628614@email.com",
+      "phoneNumber": "00040190263"
+    },
+    "address": {
+      "id": "974265c4-1d12-11e9-aea4-e7c4e487e347",
+      "line1": "134-150 Bulwara Road",
+      "line2": null,
+      "locale": "Pyrmont",
+      "state": "NSW",
+      "postcode": "2009",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "c54a68f6-f697-11e7-8b9a-cf2176dc9e4a",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd2)",
+      "email": "fake-53162920@email.com",
+      "phoneNumber": "00082015102"
+    }
+  },
+  {
+    "id": "96580c7a-1558-11e9-9eb4-23928552a5c7",
+    "clientId": "94faee9c-1558-11e9-aa73-9716bd1fd552",
+    "genderPref": "n",
+    "pets": false,
+    "errands": false,
+    "notes": null,
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "94faee9c-1558-11e9-aa73-9716bd1fd552",
+      "firstName": "Maira",
+      "lastName": "beldi",
+      "email": "fake-client-6558983@email.com",
+      "phoneNumber": "00089555526"
+    },
+    "address": {
+      "id": "986385bc-1558-11e9-b01c-b792d71bef3b",
+      "line1": "37 Laurel Road West",
+      "line2": null,
+      "locale": "Ingleside",
+      "state": "NSW",
+      "postcode": "2101",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd RECRUIT)",
+      "email": "fake-97865523@email.com",
+      "phoneNumber": "00049589171"
+    }
+  },
+  {
+    "id": "9f92e4b8-eedf-11e7-91ed-970576c09a5c",
+    "clientId": "9c5b0332-ebcb-11e7-bffd-c7bc9be44600",
+    "genderPref": "f",
+    "pets": false,
+    "errands": true,
+    "notes": null,
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "9c5b0332-ebcb-11e7-bffd-c7bc9be44600",
+      "firstName": "Jessica",
+      "lastName": "Freame",
+      "email": "fake-client-45547921@email.com",
+      "phoneNumber": "00037752413"
+    },
+    "address": {
+      "id": "b2fb9bee-eedf-11e7-902b-4fd91d1fa95a",
+      "line1": "77 Highett Street",
+      "line2": null,
+      "locale": "Richmond",
+      "state": "VIC",
+      "postcode": "3121",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "4264c3b0-ef1f-11e8-a064-8f587bfdf86b",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel RECRUIT)",
+      "email": "fake-89131700@email.com",
+      "phoneNumber": "00030536805"
+    }
+  },
+  {
+    "id": "a3ac04bc-7391-11e8-92a2-a3ce52686595",
+    "clientId": "c352690c-738f-11e8-87b0-af0deea922de",
+    "genderPref": "f",
+    "pets": false,
+    "errands": false,
+    "notes": "Access: client at home, female preference. \n\nNeeds to have someone who will stay long-term",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "c352690c-738f-11e8-87b0-af0deea922de",
+      "firstName": "Erin",
+      "lastName": "Baker2",
+      "email": "fake-client-63194367@email.com",
+      "phoneNumber": "00030106367"
+    },
+    "address": {
+      "id": "c5301682-7391-11e8-b579-5395beb7b2ee",
+      "line1": "40 Crystal Street",
+      "line2": null,
+      "locale": "Petersham",
+      "state": "NSW",
+      "postcode": "2049",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "64bff96c-a356-11e8-b9a3-0b160ecd62b5",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd)",
+      "email": "fake-53991341@email.com",
+      "phoneNumber": "00026501498"
+    }
+  },
+  {
+    "id": "a7d43ce2-ed51-11e7-968b-eb09130f9cb0",
+    "clientId": "41aeda94-ebbc-11e7-b906-f3d3c39cd93b",
+    "genderPref": "f",
+    "pets": false,
+    "errands": true,
+    "notes": "START 6 Jan at 11am - Tue /Fri. Has a cat\n\nThere will be a key in the key safe to the right of the back door (glass door). It's code is 3430. Can they please return the key to the safe each visit",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "41aeda94-ebbc-11e7-b906-f3d3c39cd93b",
+      "firstName": "Bec",
+      "lastName": "Carland",
+      "email": "fake-client-32691235@email.com",
+      "phoneNumber": "00057844483"
+    },
+    "address": {
+      "id": "c8b79436-ed51-11e7-8c0b-c3d60e8d06c0",
+      "line1": "34 Alister st ",
+      "line2": null,
+      "locale": "North Fitzroy",
+      "state": "VIC",
+      "postcode": "3068",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "69043426-1d9a-11e8-9bd6-4b80876ea8ba",
+      "firstName": "Fernanda4",
+      "lastName": "(Mel Butler)",
+      "email": "fake-96777378@email.com",
+      "phoneNumber": "00051878899"
+    }
+  },
+  {
+    "id": "abc9dbe8-237b-11e9-a1a8-17719c6844ab",
+    "clientId": "ab5073fc-237b-11e9-987c-f75fd020715d",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": null,
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "ab5073fc-237b-11e9-987c-f75fd020715d",
+      "firstName": "Tatum",
+      "lastName": "Lakin",
+      "email": "Destany_Tromp@hotmail.com",
+      "phoneNumber": "0458661904"
+    },
+    "address": {
+      "id": "acff2b94-237b-11e9-bf6d-1f25a5a47301",
+      "line1": "98 Perry St",
+      "line2": null,
+      "locale": "Fairfield",
+      "state": "VIC",
+      "postcode": "3078",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "a320d0f0-237b-11e9-9155-97e8cc5bcd3e",
+      "firstName": "ALLOCATE",
+      "lastName": "Hettinger",
+      "email": "allocate1@gmail.com",
+      "phoneNumber": "0458661904"
+    }
+  },
+  {
+    "id": "abcbaedc-237b-11e9-bc22-f3f06a9294a5",
+    "clientId": "ab5073fc-237b-11e9-987c-f75fd020715d",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": null,
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "ab5073fc-237b-11e9-987c-f75fd020715d",
+      "firstName": "Tatum",
+      "lastName": "Lakin",
+      "email": "Destany_Tromp@hotmail.com",
+      "phoneNumber": "0458661904"
+    },
+    "address": {
+      "id": "acff75ae-237b-11e9-865e-ab104067f602",
+      "line1": "98 Perry St",
+      "line2": null,
+      "locale": "Fairfield",
+      "state": "VIC",
+      "postcode": "3078",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "a320d0f0-237b-11e9-9155-97e8cc5bcd3e",
+      "firstName": "ALLOCATE",
+      "lastName": "Hettinger",
+      "email": "allocate1@gmail.com",
+      "phoneNumber": "0458661904"
+    }
+  },
+  {
+    "id": "abcbf482-237b-11e9-bc9a-6f573d3baafe",
+    "clientId": "ab507d5c-237b-11e9-bf63-c7dd1ba6f4cc",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": null,
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "ab507d5c-237b-11e9-bf63-c7dd1ba6f4cc",
+      "firstName": "Janick",
+      "lastName": "Hermann",
+      "email": "Thad_Ortiz85@yahoo.com",
+      "phoneNumber": "0458661904"
+    },
+    "address": {
+      "id": "ad048c06-237b-11e9-9161-07428c050e4c",
+      "line1": "98 Perry St",
+      "line2": null,
+      "locale": "Fairfield",
+      "state": "VIC",
+      "postcode": "3078",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "a320d0f0-237b-11e9-9155-97e8cc5bcd3e",
+      "firstName": "ALLOCATE",
+      "lastName": "Hettinger",
+      "email": "allocate1@gmail.com",
+      "phoneNumber": "0458661904"
+    }
+  },
+  {
+    "id": "abccacce-237b-11e9-8655-27a5c18439d5",
+    "clientId": "ab507d5c-237b-11e9-bf63-c7dd1ba6f4cc",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": null,
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "ab507d5c-237b-11e9-bf63-c7dd1ba6f4cc",
+      "firstName": "Janick",
+      "lastName": "Hermann",
+      "email": "Thad_Ortiz85@yahoo.com",
+      "phoneNumber": "0458661904"
+    },
+    "address": {
+      "id": "acffcd24-237b-11e9-ac46-0bd0eb872de4",
+      "line1": "98 Perry St",
+      "line2": null,
+      "locale": "Fairfield",
+      "state": "VIC",
+      "postcode": "3078",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "a320d0f0-237b-11e9-9155-97e8cc5bcd3e",
+      "firstName": "ALLOCATE",
+      "lastName": "Hettinger",
+      "email": "allocate1@gmail.com",
+      "phoneNumber": "0458661904"
+    }
+  },
+  {
+    "id": "abccd3e8-237b-11e9-9159-13e71359736e",
+    "clientId": "ab507d5c-237b-11e9-bf63-c7dd1ba6f4cc",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": null,
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "ab507d5c-237b-11e9-bf63-c7dd1ba6f4cc",
+      "firstName": "Janick",
+      "lastName": "Hermann",
+      "email": "Thad_Ortiz85@yahoo.com",
+      "phoneNumber": "0458661904"
+    },
+    "address": {
+      "id": "ad0fe506-237b-11e9-b0bf-e36952b368c3",
+      "line1": "98 Perry St",
+      "line2": null,
+      "locale": "Fairfield",
+      "state": "VIC",
+      "postcode": "3078",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "a320d0f0-237b-11e9-9155-97e8cc5bcd3e",
+      "firstName": "ALLOCATE",
+      "lastName": "Hettinger",
+      "email": "allocate1@gmail.com",
+      "phoneNumber": "0458661904"
+    }
+  },
+  {
+    "id": "abccfb34-237b-11e9-987f-8fbc3acca36c",
+    "clientId": "ab507d5c-237b-11e9-bf63-c7dd1ba6f4cc",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": null,
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "ab507d5c-237b-11e9-bf63-c7dd1ba6f4cc",
+      "firstName": "Janick",
+      "lastName": "Hermann",
+      "email": "Thad_Ortiz85@yahoo.com",
+      "phoneNumber": "0458661904"
+    },
+    "address": {
+      "id": "acff3b70-237b-11e9-9888-4bf8c4172bba",
+      "line1": "98 Perry St",
+      "line2": null,
+      "locale": "Fairfield",
+      "state": "VIC",
+      "postcode": "3078",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "a320d0f0-237b-11e9-9155-97e8cc5bcd3e",
+      "firstName": "ALLOCATE",
+      "lastName": "Hettinger",
+      "email": "allocate1@gmail.com",
+      "phoneNumber": "0458661904"
+    }
+  },
+  {
+    "id": "abce3d6e-237b-11e9-8527-9fd52502de4e",
+    "clientId": "ab507d5c-237b-11e9-bf63-c7dd1ba6f4cc",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": null,
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "ab507d5c-237b-11e9-bf63-c7dd1ba6f4cc",
+      "firstName": "Janick",
+      "lastName": "Hermann",
+      "email": "Thad_Ortiz85@yahoo.com",
+      "phoneNumber": "0458661904"
+    },
+    "address": {
+      "id": "ad331684-237b-11e9-bca5-4f3641ddaa71",
+      "line1": "98 Perry St",
+      "line2": null,
+      "locale": "Fairfield",
+      "state": "VIC",
+      "postcode": "3078",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "a320d0f0-237b-11e9-9155-97e8cc5bcd3e",
+      "firstName": "ALLOCATE",
+      "lastName": "Hettinger",
+      "email": "allocate1@gmail.com",
+      "phoneNumber": "0458661904"
+    }
+  },
+  {
+    "id": "b1e08a2c-1af2-11e9-9d73-2f6ac2334aa2",
+    "clientId": "b0c5037a-1af2-11e9-9972-93ca32d848dd",
+    "genderPref": "n",
+    "pets": false,
+    "errands": false,
+    "notes": "Access instructions: client at home\n\nPets: dogs and cat\n\nTasks: mainly cleaning\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?:\n\nInvoicing instructions (if provided)",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "b0c5037a-1af2-11e9-9972-93ca32d848dd",
+      "firstName": "Karen",
+      "lastName": "Castledine",
+      "email": "fake-client-74481207@email.com",
+      "phoneNumber": "00093828789"
+    },
+    "address": {
+      "id": "b3415a04-1af2-11e9-8d0d-730aa6a530ea",
+      "line1": "197 Headland Road",
+      "line2": null,
+      "locale": "North Curl Curl",
+      "state": "NSW",
+      "postcode": "2099",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "c54a68f6-f697-11e7-8b9a-cf2176dc9e4a",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd2)",
+      "email": "fake-53162920@email.com",
+      "phoneNumber": "00082015102"
+    }
+  },
+  {
+    "id": "b3a3119e-22aa-11e9-981d-abf2dc694e46",
+    "clientId": "b28ce71c-22aa-11e9-9e16-d74b2fdab6df",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": "Access instructions: client at home\n\nPets: dogs\n\nTasks: deep cleaning\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?:\n\nInvoicing instructions (if provided)",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "b28ce71c-22aa-11e9-9e16-d74b2fdab6df",
+      "firstName": "Katie",
+      "lastName": "Hillary",
+      "email": "fake-client-35425918@email.com",
+      "phoneNumber": "00094430630"
+    },
+    "address": {
+      "id": "b521c952-22aa-11e9-9a04-0b9a984a655b",
+      "line1": "16 Evans Avenue",
+      "line2": null,
+      "locale": "Hampton East",
+      "state": "VIC",
+      "postcode": "3188",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "email": "fake-30118185@email.com",
+      "phoneNumber": "00094929353"
+    }
+  },
+  {
+    "id": "bbcd2f82-20f0-11e9-b514-f77d06266b23",
+    "clientId": "bac6308e-20f0-11e9-b513-83115d5b6f2b",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": "Cx requesting for the list of cleaning products \n\nAccess instructions: Available on the time of the visit, \n\n Pets:  Yes\n\nTasks:  3 Bedroom villa \n\nBooked by: Gelina Sale 9:28 Am \n Backup for First Visit day and time: \n\nCx agree that visit cannot be guaranteed?:\n Invoicing instructions (if provided): Upload",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "bac6308e-20f0-11e9-b513-83115d5b6f2b",
+      "firstName": "Amanda",
+      "lastName": "Jones",
+      "email": "fake-client-63893500@email.com",
+      "phoneNumber": "00052415765"
+    },
+    "address": {
+      "id": "bd36c162-20f0-11e9-9398-3b9d5ae340b5",
+      "line1": "5/6 Laurel Place",
+      "line2": null,
+      "locale": "Ryde",
+      "state": "NSW",
+      "postcode": "2112",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "8c572742-0356-11e9-94f6-effe5b26756f",
+      "firstName": "Nelida",
+      "lastName": "(Syd Butler)",
+      "email": "fake-50481506@email.com",
+      "phoneNumber": "00044457484"
+    }
+  },
+  {
+    "id": "ca270694-1889-11e9-93df-8b8a7ded50f3",
+    "clientId": "c92370ac-1889-11e9-844e-dbdb6d19a0b1",
+    "genderPref": "n",
+    "pets": true,
+    "errands": false,
+    "notes": "Access instructions: will provide a key\n\nPets: dog\n\nTasks: mainly cleaning, change sheets\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?:\n\nInvoicing instructions (if provided)",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "c92370ac-1889-11e9-844e-dbdb6d19a0b1",
+      "firstName": "Kieran",
+      "lastName": "Jackson",
+      "email": "fake-client-34640596@email.com",
+      "phoneNumber": "00035268878"
+    },
+    "address": {
+      "id": "cbc45d4e-1889-11e9-8417-bbf4274e7eea",
+      "line1": "101 Excelsior Avenue",
+      "line2": null,
+      "locale": "Castle Hill",
+      "state": "NSW",
+      "postcode": "2154",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "64bff96c-a356-11e8-b9a3-0b160ecd62b5",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd)",
+      "email": "fake-53991341@email.com",
+      "phoneNumber": "00026501498"
+    }
+  },
+  {
+    "id": "cc1e0092-22c5-11e9-86de-479249756100",
+    "clientId": "ca63caf2-22c5-11e9-b4e6-8f11725747e1",
+    "genderPref": "n",
+    "pets": true,
+    "errands": false,
+    "notes": "Access instructions: client at home\n\nPets: cat\n\nTasks: cleaning,folding,tidying\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?:\n\nInvoicing instructions (if provided)",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "ca63caf2-22c5-11e9-b4e6-8f11725747e1",
+      "firstName": "Lachlan Mark",
+      "lastName": "Carpenter",
+      "email": "fake-client-78474954@email.com",
+      "phoneNumber": "00058991235"
+    },
+    "address": {
+      "id": "cd9f0e16-22c5-11e9-a4b5-a305713170bc",
+      "line1": "109/288 Albert Street",
+      "line2": null,
+      "locale": "Brunswick",
+      "state": "VIC",
+      "postcode": "3056",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "email": "fake-30118185@email.com",
+      "phoneNumber": "00094929353"
+    }
+  },
+  {
+    "id": "d068da02-e867-11e8-8b1b-0325ef6b58b1",
+    "clientId": "ceaba6fe-e867-11e8-be87-d7820dccc62a",
+    "genderPref": "n",
+    "pets": true,
+    "errands": false,
+    "notes": "Access instructions: client at home\n\nPets: dog\n\nTasks: vacuuming,dusting,mopping\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?:\n\nInvoicing instructions (if provided)",
+    "visitGuaranteed": true,
+    "languageProf": 1,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "ceaba6fe-e867-11e8-be87-d7820dccc62a",
+      "firstName": "Renee",
+      "lastName": "Waller",
+      "email": "fake-client-96380446@email.com",
+      "phoneNumber": "00085851910"
+    },
+    "address": {
+      "id": "d2b4c1e0-e867-11e8-8f46-e35f59193c6f",
+      "line1": "9/53 Tootal Road",
+      "line2": null,
+      "locale": "Dingley Village",
+      "state": "VIC",
+      "postcode": "3172",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "email": "fake-30118185@email.com",
+      "phoneNumber": "00094929353"
+    }
+  },
+  {
+    "id": "e07f3a22-22ae-11e9-9e4b-53d9c8ba5477",
+    "clientId": "df1bf59e-22ae-11e9-ad6e-8b2cee572714",
+    "genderPref": "f",
+    "pets": false,
+    "errands": false,
+    "notes": "NOTES:\n\nAccess instructions: at home during the visit\nPets: N/A\nTasks: General housecleaning services etc\nAlternative contact (if provided)\n——\nBooked by: Rosabelle (Sale)\nBackup for First Visit day and time:\nCx agree that visit cannot be guaranteed?:\nInvoicing instructions (if provided)",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "df1bf59e-22ae-11e9-ad6e-8b2cee572714",
+      "firstName": "Paul",
+      "lastName": "Martin",
+      "email": "fake-client-3730382@email.com",
+      "phoneNumber": "00041407075"
+    },
+    "address": {
+      "id": "e1d8caa0-22ae-11e9-8ffb-87b43c6e3d59",
+      "line1": "20/52 Wentworth Avenue",
+      "line2": null,
+      "locale": "Mascot",
+      "state": "NSW",
+      "postcode": "2020",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "c54a68f6-f697-11e7-8b9a-cf2176dc9e4a",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd2)",
+      "email": "fake-53162920@email.com",
+      "phoneNumber": "00082015102"
+    }
+  },
+  {
+    "id": "eb09e2e8-22d2-11e9-ace5-c715f4b451ed",
+    "clientId": "e97b07ae-22d2-11e9-9e8f-77e932a4c6e4",
+    "genderPref": "n",
+    "pets": true,
+    "errands": false,
+    "notes": "NOTES:\n\nAccess instructions: at home during the visit; Please come 15 mins earlier; Call for house instructions\nPets: 1 dog\nTasks: General housecleaning services etc\nAlternative contact (if provided)\n——\nBooked by: Rosabelle (Sale)\nBackup for First Visit day and time:\nCx agree that visit cannot be guaranteed?: Agreed\nInvoicing instructions (if provided)",
+    "visitGuaranteed": false,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "e97b07ae-22d2-11e9-9e8f-77e932a4c6e4",
+      "firstName": "Jackie",
+      "lastName": "Orchard",
+      "email": "fake-client-72222870@email.com",
+      "phoneNumber": "0005095184"
+    },
+    "address": {
+      "id": "ec900e62-22d2-11e9-928e-2789982944ea",
+      "line1": "2 Benowra Place",
+      "line2": null,
+      "locale": "Davidson",
+      "state": "NSW",
+      "postcode": "2085",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "c54a68f6-f697-11e7-8b9a-cf2176dc9e4a",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd2)",
+      "email": "fake-53162920@email.com",
+      "phoneNumber": "00082015102"
+    }
+  },
+  {
+    "id": "ee78a1c6-1396-11e9-ac5f-7f6d8c1d454a",
+    "clientId": "ecd2fc5e-1396-11e9-8bae-8f04211f5252",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": "NOTES:\n\nAccess instructions: at home during the visit\nPets: 2 dogs\nTasks: General housecleaning services etc\nAlternative contact (if provided)\n——\nBooked by: Rosabelle (Sale)\nBackup for First Visit day and time:\nCx agree that visit cannot be guaranteed?: Agreed\nInvoicing instructions (if provided): Please send bank transfer details",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "ecd2fc5e-1396-11e9-8bae-8f04211f5252",
+      "firstName": "Judy",
+      "lastName": "Ritchie",
+      "email": "fake-client-31185751@email.com",
+      "phoneNumber": "00085840212"
+    },
+    "address": {
+      "id": "f032e04e-1396-11e9-8042-930287a192d6",
+      "line1": "13 Kenmare Avenue",
+      "line2": null,
+      "locale": "Croydon",
+      "state": "VIC",
+      "postcode": "3136",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "email": "fake-30118185@email.com",
+      "phoneNumber": "00094929353"
+    }
+  },
+  {
+    "id": "f0aab0b4-1acc-11e9-a90c-371db91127a7",
+    "clientId": "ef172ed0-1acc-11e9-a90b-7fce7a063a14",
+    "genderPref": "f",
+    "pets": false,
+    "errands": false,
+    "notes": "Access instructions:  Available on the time of the visit, \n\n Pets:NO \n\nTasks: Bathroom and Kitchen \n\nBooked by: Gelina Sale 13:58 pm\n Backup for First Visit day and time: \n\nCx agree that visit cannot be guaranteed?:\n Invoicing instructions (if provided):Upload",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "ef172ed0-1acc-11e9-a90b-7fce7a063a14",
+      "firstName": "Shamarukh",
+      "lastName": "Mahmud",
+      "email": "fake-client-85018483@email.com",
+      "phoneNumber": "00096638251"
+    },
+    "address": {
+      "id": "f27bb6b8-1acc-11e9-91bc-effe2683ab9d",
+      "line1": "9/14 Peggy Street",
+      "line2": null,
+      "locale": "Mays Hill",
+      "state": "NSW",
+      "postcode": "2145",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "c54a68f6-f697-11e7-8b9a-cf2176dc9e4a",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd2)",
+      "email": "fake-53162920@email.com",
+      "phoneNumber": "00082015102"
+    }
+  },
+  {
+    "id": "f571f384-1ea8-11e9-bfa7-9f663a2aa933",
+    "clientId": "f4621104-1ea8-11e9-86ad-d36f20382107",
+    "genderPref": "f",
+    "pets": false,
+    "errands": false,
+    "notes": "Access instructions: Available on the time of the visit, \n\n Pets: No \n\nTasks: General House Cleaning, \n\nBooked by: Gelina Sale  11:50 am  \n Backup for First Visit day and time: \n\nCx agree that visit cannot be guaranteed?: \n Invoicing instructions (if provided): Upload",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "f4621104-1ea8-11e9-86ad-d36f20382107",
+      "firstName": "Mun",
+      "lastName": "Bau",
+      "email": "fake-client-49954478@email.com",
+      "phoneNumber": "00097545817"
+    },
+    "address": {
+      "id": "f6d9ae9c-1ea8-11e9-9a29-57982df8af35",
+      "line1": "9 Emerald Street",
+      "line2": null,
+      "locale": "Preston",
+      "state": "VIC",
+      "postcode": "3072",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "email": "fake-30118185@email.com",
+      "phoneNumber": "00094929353"
+    }
+  },
+  {
+    "id": "fa33da8a-1d23-11e9-ac50-37eda086dfbc",
+    "clientId": "f8e15a4a-1d23-11e9-9667-6f0e775fe178",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": "Access instructions: will be there during the visit\nPets: 1 dog/1 cat\nTasks: General house cleaning services all areas of the house \n______________\n\nBooked by: Aileen Sale\nBackup for First Visit day and time: \nCx agree that visit cannot be guaranteed?: \nInvoicing instructions (if provided) :",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "f8e15a4a-1d23-11e9-9667-6f0e775fe178",
+      "firstName": "Veronica",
+      "lastName": "Helena",
+      "email": "fake-client-29128303@email.com",
+      "phoneNumber": "00044399382"
+    },
+    "address": {
+      "id": "fc4ab636-1d23-11e9-87c3-3ba9ef90d99f",
+      "line1": "70 Boundary Road",
+      "line2": null,
+      "locale": "Mortdale",
+      "state": "NSW",
+      "postcode": "2223",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "c54a68f6-f697-11e7-8b9a-cf2176dc9e4a",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd2)",
+      "email": "fake-53162920@email.com",
+      "phoneNumber": "00082015102"
+    }
+  },
+  {
+    "id": "fda3c276-784f-11e8-b533-73a843b2a3c6",
+    "clientId": "93125eea-784a-11e8-9016-9bbffed8ae6a",
+    "genderPref": "n",
+    "pets": false,
+    "errands": false,
+    "notes": "Access: client at home. Some who can do ironing",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "93125eea-784a-11e8-9016-9bbffed8ae6a",
+      "firstName": "Leanne",
+      "lastName": "Jopson",
+      "email": "fake-client-70775896@email.com",
+      "phoneNumber": "00069330926"
+    },
+    "address": {
+      "id": "05d76fce-7850-11e8-9123-1bf4227c8794",
+      "line1": "403/21 Moreland Street",
+      "line2": null,
+      "locale": "Footscray",
+      "state": "VIC",
+      "postcode": "3011",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "email": "fake-30118185@email.com",
+      "phoneNumber": "00094929353"
+    }
+  },
+  {
+    "id": "fe384938-33b6-11e8-ba98-470336ad2500",
+    "clientId": "da064a44-33b4-11e8-b7fe-97292f47b0ce",
+    "genderPref": "n",
+    "pets": false,
+    "errands": false,
+    "notes": "Access: spare key and fob pass will be given, tidying, cleaing, laundry, \n\nDo not put wool and jumpers in the dryer. ",
+    "visitGuaranteed": false,
+    "languageProf": null,
+    "clientRating": "0.00",
+    "clientLifetimeValue": "0.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "da064a44-33b4-11e8-b7fe-97292f47b0ce",
+      "firstName": "Henry",
+      "lastName": "Skene",
+      "email": "fake-client-65393138@email.com",
+      "phoneNumber": "00098647401"
+    },
+    "address": {
+      "id": "0e7b7248-33b7-11e8-81c0-0383ac17813c",
+      "line1": "807/31 Spring St ",
+      "line2": null,
+      "locale": "Melbourne",
+      "state": "VIC",
+      "postcode": "3000",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "69043426-1d9a-11e8-9bd6-4b80876ea8ba",
+      "firstName": "Fernanda4",
+      "lastName": "(Mel Butler)",
+      "email": "fake-96777378@email.com",
+      "phoneNumber": "00051878899"
+    }
+  },
+  {
+    "id": "ff6691d8-17d2-11e9-9888-eb6a3df06b7a",
+    "clientId": "fe42fb8e-17d2-11e9-b281-cb0e8d7467de",
+    "genderPref": "f",
+    "pets": true,
+    "errands": false,
+    "notes": "Access instructions:  Available on the time of the visit, \nwill give the key to the butler, \n\n Pets: Yes\n\nTasks: General House Cleaning, \n\nBooked by: Gelina Sale   19:03 pm \n Backup for First Visit day and time: \n\nCx agree that visit cannot be guaranteed?: \n Invoicing instructions (if provided): Bank Transfer",
+    "visitGuaranteed": false,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": false,
+    "cancelFeeHasBeenWaived": false,
+    "client": {
+      "id": "fe42fb8e-17d2-11e9-b281-cb0e8d7467de",
+      "firstName": "Subha",
+      "lastName": "ramesan",
+      "email": "fake-client-86221636@email.com",
+      "phoneNumber": "00079464335"
+    },
+    "address": {
+      "id": "00ca0852-17d3-11e9-8a80-fbe53ab47d4b",
+      "line1": "1 Midland Way",
+      "line2": null,
+      "locale": "Taylors Lakes",
+      "state": "VIC",
+      "postcode": "3038",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "4264c3b0-ef1f-11e8-a064-8f587bfdf86b",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel RECRUIT)",
+      "email": "fake-89131700@email.com",
+      "phoneNumber": "00030536805"
+    }
+  },
+  {
+    "id": "ffc7d2bc-202f-11e9-96d2-57a662e34186",
+    "clientId": "fe96eedc-202f-11e9-8224-c3f7e772cdae",
+    "genderPref": "n",
+    "pets": false,
+    "errands": false,
+    "notes": "Access instructions: will leave a key\n    alt number - 0288815556\n\nPets: none\n\nTasks: tidying,laundry,folding,make the beds\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?:\n\nInvoicing instructions (if provided)",
+    "visitGuaranteed": true,
+    "languageProf": 0,
+    "clientRating": "5.00",
+    "clientLifetimeValue": "1.00",
+    "isOneOff": null,
+    "cancelFeeHasBeenWaived": null,
+    "client": {
+      "id": "fe96eedc-202f-11e9-8224-c3f7e772cdae",
+      "firstName": "Dona",
+      "lastName": "Biswas",
+      "email": "fake-client-65711736@email.com",
+      "phoneNumber": "00045094525"
+    },
+    "address": {
+      "id": "01488bd6-2030-11e9-9ee3-c7098010b2b1",
+      "line1": "138 Daruga Avenue",
+      "line2": null,
+      "locale": "Pemulwuy",
+      "state": "NSW",
+      "postcode": "2145",
+      "country": "Australia"
+    },
+    "butler": {
+      "id": "64bff96c-a356-11e8-b9a3-0b160ecd62b5",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd)",
+      "email": "fake-53991341@email.com",
+      "phoneNumber": "00026501498"
+    }
+  }
+]

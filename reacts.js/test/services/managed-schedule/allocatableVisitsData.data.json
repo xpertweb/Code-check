@@ -1,0 +1,1556 @@
+[
+  {
+    "butlerId": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+    "dumpAuxMulti" : true,
+    "startDate": "2019-01-30",
+    "endDate": "2019-02-07",
+    "butler": {
+      "id": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+      "email": "fake-89131700@email.com",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel RECRUIT)",
+      "phoneNumber": "00030536805",
+      "facebookId": null,
+      "gender": "m",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": false,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": null,
+      "cleaningExp": null,
+      "freezeReason": null,
+      "managedSchedule": true
+    },
+    "date": "2019-02-01",
+    "butlerAvailable": true,
+    "butlerWindowStartTime": "07:00:00",
+    "butlerWindowEndTime": "23:30:00",
+    "butlerAddressId": "4a2b0122-ef1f-11e8-9771-c783dad84b8e",
+    "cost": 5.302569442389872,
+    "efficiency": 0.3771756356477999,
+    "constraintsSatisfied": true,
+    "butlerWindowStartTimeSlack": 0,
+    "butlerWindowEndTimeSlack": 0,
+    "trunc": false,
+    "anchoredVisits": [
+      {
+        "date": "2019-02-01",
+        "serviceId": "ff6691d8-17d2-11e9-9888-eb6a3df06b7a",
+        "clientId": "fe42fb8e-17d2-11e9-b281-cb0e8d7467de",
+        "butlerId": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "04dd918e-17d3-11e9-bf5e-23925b711080",
+        "visitPlanDateRange": "[2019-02-01,)",
+        "visitPlanRecurrence": "n",
+        "hourlyRateOverride": "45.00",
+        "visitPlanComment": null,
+        "serviceAddressId": "00ca0852-17d3-11e9-8a80-fbe53ab47d4b",
+        "windowStartTime": "18:00:00",
+        "windowEndTime": "20:00:00",
+        "duration": "02:00:00",
+        "geopoint": {
+          "lat": -37.690313,
+          "lng": 144.777887
+        },
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "windowStartTimeSlack": 0,
+        "windowEndTimeSlack": 0,
+        "futurePlans": [
+          {
+            "id": "04dd918e-17d3-11e9-bf5e-23925b711080",
+            "serviceId": "ff6691d8-17d2-11e9-9888-eb6a3df06b7a",
+            "recurrence": "n",
+            "hourlyRateOverride": "45.00",
+            "comment": null,
+            "startDate": "2019-02-01",
+            "windowStartTime": "18:00:00",
+            "windowEndTime": "20:00:00",
+            "duration": "02:00:00"
+          }
+        ],
+        "firstVisitOfThisService": true,
+        "client": {
+          "id": "fe42fb8e-17d2-11e9-b281-cb0e8d7467de",
+          "email": "fake-client-86221636@email.com",
+          "password": "$2a$13$3eOusDen9hcVfiYMoUZ99OwqEbkPek5RDlSuwn2.o7WJ9kNoj3Y/m",
+          "firstName": "Subha",
+          "lastName": "ramesan",
+          "phoneNumber": "00079464335",
+          "facebookId": null,
+          "legacyUsername": "subharamesan",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "ff6691d8-17d2-11e9-9888-eb6a3df06b7a",
+          "clientId": "fe42fb8e-17d2-11e9-b281-cb0e8d7467de",
+          "genderPref": "f",
+          "pets": true,
+          "errands": false,
+          "notes": "Access instructions:  Available on the time of the visit, \nwill give the key to the butler, \n\n Pets: Yes\n\nTasks: General House Cleaning, \n\nBooked by: Gelina Sale   19:03 pm \n Backup for First Visit day and time: \n\nCx agree that visit cannot be guaranteed?: \n Invoicing instructions (if provided): Bank Transfer",
+          "visitGuaranteed": false,
+          "languageProf": 0,
+          "clientRating": "5.00",
+          "clientLifetimeValue": "1.00",
+          "isOneOff": false,
+          "cancelFeeHasBeenWaived": false
+        },
+        "serviceAddress": {
+          "id": "00ca0852-17d3-11e9-8a80-fbe53ab47d4b",
+          "line1": "1 Midland Way",
+          "line2": null,
+          "locale": "Taylors Lakes",
+          "state": "VIC",
+          "postcode": "3038",
+          "country": "Australia",
+          "serviceId": "ff6691d8-17d2-11e9-9888-eb6a3df06b7a",
+          "activeFrom": "2019-01-14",
+          "geopoint": {
+            "lat": -37.690313,
+            "lng": 144.777887
+          }
+        }
+      }
+    ],
+    "analysis": {
+      "status": "ok"
+    }
+  },
+  {
+    "dumpAuxMulti" : true,
+    "startDate": "2019-01-30",
+    "endDate": "2019-02-07",
+    "butlerId": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+    "butler": {
+      "id": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+      "email": "fake-53162920@email.com",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd2)",
+      "phoneNumber": "00082015102",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": true,
+      "handlesPets": false,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": null,
+      "cleaningExp": null,
+      "freezeReason": null,
+      "managedSchedule": true
+    },
+    "date": "2019-02-06",
+    "butlerAvailable": true,
+    "butlerWindowStartTime": "07:00:00",
+    "butlerWindowEndTime": "23:00:00",
+    "butlerAddressId": "d7ce580c-f697-11e7-afb8-1f2becf12a04",
+    "cost": 6784.497728652123,
+    "efficiency": 0.0005895793852369202,
+    "constraintsSatisfied": false,
+    "butlerWindowStartTimeSlack": 0,
+    "butlerWindowEndTimeSlack": 0,
+    "trunc": false,
+    "anchoredVisits": [
+      {
+        "date": "2019-02-06",
+        "serviceId": "014cb136-11fb-11e9-bae1-83372378c868",
+        "clientId": "0049e736-11fb-11e9-be4e-c3722ed5ec2d",
+        "butlerId": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "0641f160-11fb-11e9-98e1-1fd15061918c",
+        "visitPlanDateRange": "[2019-02-06,)",
+        "visitPlanRecurrence": "n",
+        "hourlyRateOverride": "45.00",
+        "visitPlanComment": null,
+        "serviceAddressId": "0293f07c-11fb-11e9-9120-d39294906f70",
+        "windowStartTime": "07:00:00",
+        "windowEndTime": "09:00:00",
+        "duration": "02:00:00",
+        "geopoint": {
+          "lat": -34.043613,
+          "lng": 151.1244494
+        },
+        "startTime": "07:00",
+        "endTime": "09:00",
+        "windowStartTimeSlack": 0,
+        "windowEndTimeSlack": 0,
+        "futurePlans": [
+          {
+            "id": "0641f160-11fb-11e9-98e1-1fd15061918c",
+            "serviceId": "014cb136-11fb-11e9-bae1-83372378c868",
+            "recurrence": "n",
+            "hourlyRateOverride": "45.00",
+            "comment": null,
+            "startDate": "2019-02-06",
+            "windowStartTime": "07:00:00",
+            "windowEndTime": "09:00:00",
+            "duration": "02:00:00"
+          }
+        ],
+        "firstVisitOfThisService": true,
+        "client": {
+          "id": "0049e736-11fb-11e9-be4e-c3722ed5ec2d",
+          "email": "fake-client-81025626@email.com",
+          "password": "$2a$13$7eOXJNL0XyctS.43O7cs0u7VZEb4UAJkjCkHAECbtNWCoh/22pXOu",
+          "firstName": "Collette",
+          "lastName": "Cameron",
+          "phoneNumber": "00077621979",
+          "facebookId": null,
+          "legacyUsername": "collettecameron",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "014cb136-11fb-11e9-bae1-83372378c868",
+          "clientId": "0049e736-11fb-11e9-be4e-c3722ed5ec2d",
+          "genderPref": "n",
+          "pets": false,
+          "errands": false,
+          "notes": "Access instructions:  Available on the time of the visit, \n\n Pets:  No \n\nTasks: General House Cleaning, 2 bedroom and 2 bathroom \n\nBooked by: Gelina Sale 08:34 am \n Backup for First Visit day and time: \n\nCx agree that visit cannot be guaranteed?: \n Invoicing instructions (if provided): Upload",
+          "visitGuaranteed": true,
+          "languageProf": 0,
+          "clientRating": "5.00",
+          "clientLifetimeValue": "1.00",
+          "isOneOff": false,
+          "cancelFeeHasBeenWaived": false
+        },
+        "serviceAddress": {
+          "id": "0293f07c-11fb-11e9-9120-d39294906f70",
+          "line1": "202/296-300 Kingsway",
+          "line2": null,
+          "locale": "Caringbah",
+          "state": "NSW",
+          "postcode": "2229",
+          "country": "Australia",
+          "serviceId": "014cb136-11fb-11e9-bae1-83372378c868",
+          "activeFrom": "2019-01-06",
+          "geopoint": {
+            "lat": -34.043613,
+            "lng": 151.1244494
+          }
+        }
+      },
+      {
+        "date": "2019-02-06",
+        "serviceId": "fa33da8a-1d23-11e9-ac50-37eda086dfbc",
+        "clientId": "f8e15a4a-1d23-11e9-9667-6f0e775fe178",
+        "butlerId": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "d6196dd4-2289-11e9-bf66-b38b91b18c8f",
+        "visitPlanDateRange": "[2019-02-06,)",
+        "visitPlanRecurrence": "n",
+        "hourlyRateOverride": "45.00",
+        "visitPlanComment": null,
+        "serviceAddressId": "fc4ab636-1d23-11e9-87c3-3ba9ef90d99f",
+        "windowStartTime": "09:00:00",
+        "windowEndTime": "11:00:00",
+        "duration": "02:00:00",
+        "geopoint": {
+          "lat": -33.9665156,
+          "lng": 151.070813
+        },
+        "startTime": "09:50",
+        "endTime": "11:50",
+        "windowStartTimeSlack": 0,
+        "windowEndTimeSlack": 0.8272888423248603,
+        "futurePlans": [
+          {
+            "id": "ff751176-1d23-11e9-be02-1f6ff0b146c9",
+            "serviceId": "fa33da8a-1d23-11e9-ac50-37eda086dfbc",
+            "recurrence": "n",
+            "hourlyRateOverride": "45.00",
+            "comment": null,
+            "startDate": "2019-02-06",
+            "windowStartTime": "09:00:00",
+            "windowEndTime": "11:00:00",
+            "duration": "02:00:00"
+          }
+        ],
+        "firstVisitOfThisService": true,
+        "client": {
+          "id": "f8e15a4a-1d23-11e9-9667-6f0e775fe178",
+          "email": "fake-client-29128303@email.com",
+          "password": "$2a$13$egdJzWFXmuzkEG7lwBhMI.mQYOfLtt9C8nyXCGYJmkcgLOsTrNsqa",
+          "firstName": "Veronica",
+          "lastName": "Helena",
+          "phoneNumber": "00044399382",
+          "facebookId": null,
+          "legacyUsername": "veronicahelena",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "fa33da8a-1d23-11e9-ac50-37eda086dfbc",
+          "clientId": "f8e15a4a-1d23-11e9-9667-6f0e775fe178",
+          "genderPref": "f",
+          "pets": true,
+          "errands": false,
+          "notes": "Access instructions: will be there during the visit\nPets: 1 dog/1 cat\nTasks: General house cleaning services all areas of the house \n______________\n\nBooked by: Aileen Sale\nBackup for First Visit day and time: \nCx agree that visit cannot be guaranteed?: \nInvoicing instructions (if provided) :",
+          "visitGuaranteed": true,
+          "languageProf": 0,
+          "clientRating": "5.00",
+          "clientLifetimeValue": "1.00",
+          "isOneOff": false,
+          "cancelFeeHasBeenWaived": false
+        },
+        "serviceAddress": {
+          "id": "fc4ab636-1d23-11e9-87c3-3ba9ef90d99f",
+          "line1": "70 Boundary Road",
+          "line2": null,
+          "locale": "Mortdale",
+          "state": "NSW",
+          "postcode": "2223",
+          "country": "Australia",
+          "serviceId": "fa33da8a-1d23-11e9-ac50-37eda086dfbc",
+          "activeFrom": "2019-01-21",
+          "geopoint": {
+            "lat": -33.9665156,
+            "lng": 151.070813
+          }
+        }
+      }
+    ],
+    "analysis": {
+      "status": "warning",
+      "message": "Constraint has been violated"
+    }
+  },
+  {
+    "butlerId": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+    "butler": {
+      "id": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+      "email": "fake-97865523@email.com",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd RECRUIT)",
+      "phoneNumber": "00049589171",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": false,
+      "handlesPets": false,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": null,
+      "cleaningExp": null,
+      "freezeReason": null,
+      "managedSchedule": true
+    },
+    "date": "2019-02-01",
+    "butlerAvailable": true,
+    "butlerWindowStartTime": "07:00:00",
+    "butlerWindowEndTime": "23:30:00",
+    "butlerAddressId": "a9045780-ef1e-11e8-9790-3315c10aa998",
+    "cost": 113573.65747674977,
+    "efficiency": 0.00010125587442980978,
+    "constraintsSatisfied": false,
+    "butlerWindowStartTimeSlack": 3.41440861973813,
+    "butlerWindowEndTimeSlack": 0,
+    "trunc": false,
+    "anchoredVisits": [
+      {
+        "date": "2019-02-01",
+        "serviceId": "ffc7d2bc-202f-11e9-96d2-57a662e34186",
+        "clientId": "fe96eedc-202f-11e9-8224-c3f7e772cdae",
+        "butlerId": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "09b8dd7a-2030-11e9-90b9-338b602ed06a",
+        "visitPlanDateRange": "[2019-02-01,)",
+        "visitPlanRecurrence": "n",
+        "hourlyRateOverride": "39.00",
+        "visitPlanComment": null,
+        "serviceAddressId": "01488bd6-2030-11e9-9ee3-c7098010b2b1",
+        "windowStartTime": "08:00:00",
+        "windowEndTime": "11:00:00",
+        "duration": "03:00:00",
+        "geopoint": {
+          "lat": -33.825182,
+          "lng": 150.925439
+        },
+        "startTime": "03:35",
+        "endTime": "06:35",
+        "windowStartTimeSlack": 4.41440861973813,
+        "windowEndTimeSlack": 0,
+        "futurePlans": [
+          {
+            "id": "09b8dd7a-2030-11e9-90b9-338b602ed06a",
+            "serviceId": "ffc7d2bc-202f-11e9-96d2-57a662e34186",
+            "recurrence": "n",
+            "hourlyRateOverride": "39.00",
+            "comment": null,
+            "startDate": "2019-02-01",
+            "windowStartTime": "08:00:00",
+            "windowEndTime": "11:00:00",
+            "duration": "03:00:00"
+          },
+          {
+            "id": "ab04beb2-2033-11e9-8f54-9744562b3f1f",
+            "serviceId": "ffc7d2bc-202f-11e9-96d2-57a662e34186",
+            "recurrence": "n",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-05",
+            "windowStartTime": "08:00:00",
+            "windowEndTime": "17:00:00",
+            "duration": "03:00:00"
+          },
+          {
+            "id": "fbe28b02-21dc-11e9-833c-8f244413d464",
+            "serviceId": "ffc7d2bc-202f-11e9-96d2-57a662e34186",
+            "recurrence": "w",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-08",
+            "windowStartTime": "08:00:00",
+            "windowEndTime": "17:00:00",
+            "duration": "03:00:00"
+          },
+          {
+            "id": "c92dacfa-2033-11e9-ac9b-2f3fc136d763",
+            "serviceId": "ffc7d2bc-202f-11e9-96d2-57a662e34186",
+            "recurrence": "w",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-12",
+            "windowStartTime": "08:00:00",
+            "windowEndTime": "17:00:00",
+            "duration": "03:00:00"
+          }
+        ],
+        "firstVisitOfThisService": true,
+        "client": {
+          "id": "fe96eedc-202f-11e9-8224-c3f7e772cdae",
+          "email": "fake-client-65711736@email.com",
+          "password": "$2a$13$ib8m0rp2ADCb.mL9z/K5qerQaCXU2c9/hkr7DwHj5z4nGgvZ5crN2",
+          "firstName": "Dona",
+          "lastName": "Biswas",
+          "phoneNumber": "00045094525",
+          "facebookId": null,
+          "legacyUsername": "donabiswas",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "ffc7d2bc-202f-11e9-96d2-57a662e34186",
+          "clientId": "fe96eedc-202f-11e9-8224-c3f7e772cdae",
+          "genderPref": "n",
+          "pets": false,
+          "errands": false,
+          "notes": "Access instructions: will leave a key\n    alt number - 0288815556\n\nPets: none\n\nTasks: tidying,laundry,folding,make the beds\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?:\n\nInvoicing instructions (if provided)",
+          "visitGuaranteed": true,
+          "languageProf": 0,
+          "clientRating": "5.00",
+          "clientLifetimeValue": "1.00",
+          "isOneOff": null,
+          "cancelFeeHasBeenWaived": null
+        },
+        "serviceAddress": {
+          "id": "01488bd6-2030-11e9-9ee3-c7098010b2b1",
+          "line1": "138 Daruga Avenue",
+          "line2": null,
+          "locale": "Pemulwuy",
+          "state": "NSW",
+          "postcode": "2145",
+          "country": "Australia",
+          "serviceId": "ffc7d2bc-202f-11e9-96d2-57a662e34186",
+          "activeFrom": "2019-01-24",
+          "geopoint": {
+            "lat": -33.825182,
+            "lng": 150.925439
+          }
+        }
+      },
+      {
+        "date": "2019-02-01",
+        "serviceId": "ca270694-1889-11e9-93df-8b8a7ded50f3",
+        "clientId": "c92370ac-1889-11e9-844e-dbdb6d19a0b1",
+        "butlerId": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "fbfcaa96-21dc-11e9-aa51-7ffab8e30c34",
+        "visitPlanDateRange": "[2019-02-01,)",
+        "visitPlanRecurrence": "n",
+        "hourlyRateOverride": null,
+        "visitPlanComment": null,
+        "serviceAddressId": "cbc45d4e-1889-11e9-8417-bbf4274e7eea",
+        "windowStartTime": "07:30:00",
+        "windowEndTime": "11:30:00",
+        "duration": "04:00:00",
+        "geopoint": {
+          "lat": -33.7399602,
+          "lng": 150.9938118
+        },
+        "startTime": "07:30",
+        "endTime": "11:30",
+        "windowStartTimeSlack": 0,
+        "windowEndTimeSlack": 0,
+        "futurePlans": [
+          {
+            "id": "fbfcaa96-21dc-11e9-aa51-7ffab8e30c34",
+            "serviceId": "ca270694-1889-11e9-93df-8b8a7ded50f3",
+            "recurrence": "n",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-01",
+            "windowStartTime": "07:30:00",
+            "windowEndTime": "11:30:00",
+            "duration": "04:00:00"
+          },
+          {
+            "id": "fc01a9ce-21dc-11e9-ad5e-9bbaaf690d5a",
+            "serviceId": "ca270694-1889-11e9-93df-8b8a7ded50f3",
+            "recurrence": "f",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-15",
+            "windowStartTime": "09:00:00",
+            "windowEndTime": "17:00:00",
+            "duration": "04:00:00"
+          }
+        ],
+        "firstVisitOfThisService": false,
+        "client": {
+          "id": "c92370ac-1889-11e9-844e-dbdb6d19a0b1",
+          "email": "fake-client-34640596@email.com",
+          "password": "$2a$13$HKwAp3OoFWBKeTTjY2f11eeiVTJOhNMNEWxSWDTd1gacStvrgo0N6",
+          "firstName": "Kieran",
+          "lastName": "Jackson",
+          "phoneNumber": "00035268878",
+          "facebookId": null,
+          "legacyUsername": "kieranjackson",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "ca270694-1889-11e9-93df-8b8a7ded50f3",
+          "clientId": "c92370ac-1889-11e9-844e-dbdb6d19a0b1",
+          "genderPref": "n",
+          "pets": true,
+          "errands": false,
+          "notes": "Access instructions: will provide a key\n\nPets: dog\n\nTasks: mainly cleaning, change sheets\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?:\n\nInvoicing instructions (if provided)",
+          "visitGuaranteed": true,
+          "languageProf": 0,
+          "clientRating": "5.00",
+          "clientLifetimeValue": "1.00",
+          "isOneOff": false,
+          "cancelFeeHasBeenWaived": false
+        },
+        "serviceAddress": {
+          "id": "cbc45d4e-1889-11e9-8417-bbf4274e7eea",
+          "line1": "101 Excelsior Avenue",
+          "line2": null,
+          "locale": "Castle Hill",
+          "state": "NSW",
+          "postcode": "2154",
+          "country": "Australia",
+          "serviceId": "ca270694-1889-11e9-93df-8b8a7ded50f3",
+          "activeFrom": "2019-01-15",
+          "geopoint": {
+            "lat": -33.7399602,
+            "lng": 150.9938118
+          }
+        }
+      },
+      {
+        "date": "2019-02-01",
+        "serviceId": "2ef5eaa0-152d-11e9-8e03-af3ea421e3c2",
+        "clientId": "2e05bb34-152d-11e9-903b-7b02d0d15f4f",
+        "butlerId": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "4312a160-1dc8-11e9-9ef0-dfa5222611cf",
+        "visitPlanDateRange": "[2019-02-01,)",
+        "visitPlanRecurrence": "n",
+        "hourlyRateOverride": null,
+        "visitPlanComment": null,
+        "serviceAddressId": "303a7fac-152d-11e9-aa15-4bb32eaa520e",
+        "windowStartTime": "09:00:00",
+        "windowEndTime": "11:30:00",
+        "duration": "02:30:00",
+        "geopoint": {
+          "lat": -33.7032827,
+          "lng": 151.0957232
+        },
+        "startTime": "12:20",
+        "endTime": "14:50",
+        "windowStartTimeSlack": 0,
+        "windowEndTimeSlack": 3.349075910855732,
+        "futurePlans": [
+          {
+            "id": "4312a160-1dc8-11e9-9ef0-dfa5222611cf",
+            "serviceId": "2ef5eaa0-152d-11e9-8e03-af3ea421e3c2",
+            "recurrence": "n",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-01",
+            "windowStartTime": "09:00:00",
+            "windowEndTime": "11:30:00",
+            "duration": "02:30:00"
+          }
+        ],
+        "firstVisitOfThisService": false,
+        "client": {
+          "id": "2e05bb34-152d-11e9-903b-7b02d0d15f4f",
+          "email": "fake-client-2833125@email.com",
+          "password": "$2a$13$ksgJCd0BmDWeZzGGDXilROTNEmAFocBciNqPoLcM1W5kkoSN7gaEO",
+          "firstName": "Mireille",
+          "lastName": "Pons",
+          "phoneNumber": "00072194129",
+          "facebookId": null,
+          "legacyUsername": "mireillepons",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "2ef5eaa0-152d-11e9-8e03-af3ea421e3c2",
+          "clientId": "2e05bb34-152d-11e9-903b-7b02d0d15f4f",
+          "genderPref": "f",
+          "pets": false,
+          "errands": false,
+          "notes": "Access instructions: will be there on the first  visit \nPets: N/A\nTasks: General house cleaning all areas of the house including bathroom, kitchen, toilet etc. \n\n______\n\nBooked by: Aileen Sale\nBackup for First Visit day and time: \nCx agree that visit cannot be guaranteed?: \nInvoicing instructions (if provided) :\n\n\nOngoing: Sunday\tFortnightly\t02:00:00\t08:00:00 - 17:00:00\t2019-02-03 - Present\tDefault\t\nFV Sunday\tOne off\t02:00:00\t09:00:00 - 11:00:00\t2019-01-20\tDefault",
+          "visitGuaranteed": true,
+          "languageProf": 0,
+          "clientRating": "5.00",
+          "clientLifetimeValue": "1.00",
+          "isOneOff": false,
+          "cancelFeeHasBeenWaived": false
+        },
+        "serviceAddress": {
+          "id": "303a7fac-152d-11e9-aa15-4bb32eaa520e",
+          "line1": "14/14-18 William Street",
+          "line2": null,
+          "locale": "Hornsby",
+          "state": "NSW",
+          "postcode": "2077",
+          "country": "Australia",
+          "serviceId": "2ef5eaa0-152d-11e9-8e03-af3ea421e3c2",
+          "activeFrom": "2019-01-10",
+          "geopoint": {
+            "lat": -33.7032827,
+            "lng": 151.0957232
+          }
+        }
+      },
+      {
+        "date": "2019-02-01",
+        "serviceId": "0bf2be92-c5c5-11e7-8775-8b5e18ca9b78",
+        "clientId": "6aa5a1b6-c52f-11e7-b1ba-977e7d679f43",
+        "butlerId": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "b748f9ba-065a-11e9-aa9a-fb9d97c5f935",
+        "visitPlanDateRange": "[2019-01-11,)",
+        "visitPlanRecurrence": "w",
+        "hourlyRateOverride": null,
+        "visitPlanComment": null,
+        "serviceAddressId": "296b73d8-c5c5-11e7-bc6b-13e20094d082",
+        "windowStartTime": "13:30:00",
+        "windowEndTime": "16:00:00",
+        "duration": "02:00:00",
+        "geopoint": {
+          "lat": -33.8281395,
+          "lng": 151.1305039
+        },
+        "startTime": "15:55",
+        "endTime": "17:55",
+        "windowStartTimeSlack": 0,
+        "windowEndTimeSlack": 1.930375320239762,
+        "futurePlans": [
+          {
+            "id": "bb711172-22c9-11e9-9438-6fd9a0194c28",
+            "serviceId": "7d25d736-22c9-11e9-a42f-ff501aa61243",
+            "recurrence": "n",
+            "hourlyRateOverride": "0.00",
+            "comment": null,
+            "startDate": "2019-02-01",
+            "windowStartTime": "13:30:00",
+            "windowEndTime": "16:00:00",
+            "duration": "02:00:00"
+          },
+          {
+            "id": "d763e224-22c9-11e9-94e6-23f525868adb",
+            "serviceId": "7d25d736-22c9-11e9-a42f-ff501aa61243",
+            "recurrence": "w",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-05",
+            "windowStartTime": "13:00:00",
+            "windowEndTime": "16:30:00",
+            "duration": "03:00:00"
+          },
+          {
+            "id": "f313c804-22c9-11e9-a0fd-eb6daf2fc8c5",
+            "serviceId": "7d25d736-22c9-11e9-a42f-ff501aa61243",
+            "recurrence": "w",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-08",
+            "windowStartTime": "13:30:00",
+            "windowEndTime": "16:00:00",
+            "duration": "02:00:00"
+          }
+        ],
+        "firstVisitOfThisService": false,
+        "client": {
+          "id": "6aa5a1b6-c52f-11e7-b1ba-977e7d679f43",
+          "email": "fake-client-63962868@email.com",
+          "password": "$2a$12$KdrcKRTBd.tAOVUW3IJ0PeF/cG1RzX2kgdgUOnY6z5PHuse7q7ZkS",
+          "firstName": "Ei Leen",
+          "lastName": "Low",
+          "phoneNumber": "00070461542",
+          "facebookId": null,
+          "legacyUsername": "elow",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "0bf2be92-c5c5-11e7-8775-8b5e18ca9b78",
+          "clientId": "6aa5a1b6-c52f-11e7-b1ba-977e7d679f43",
+          "genderPref": "n",
+          "pets": false,
+          "errands": false,
+          "notes": "Are quite picky picky, eye to clean, may look at booking extra hrs for husbands office in future, old address: 102/135 Point St, Pyrmont",
+          "visitGuaranteed": false,
+          "languageProf": null,
+          "clientRating": "0.00",
+          "clientLifetimeValue": "0.00",
+          "isOneOff": false,
+          "cancelFeeHasBeenWaived": false
+        },
+        "serviceAddress": {
+          "id": "296b73d8-c5c5-11e7-bc6b-13e20094d082",
+          "line1": "59 Auburn Street",
+          "line2": null,
+          "locale": "Hunters Hill",
+          "state": "NSW",
+          "postcode": "2110",
+          "country": "Australia",
+          "serviceId": "0bf2be92-c5c5-11e7-8775-8b5e18ca9b78",
+          "activeFrom": "2017-05-19",
+          "geopoint": {
+            "lat": -33.8281395,
+            "lng": 151.1305039
+          }
+        }
+      }
+    ],
+    "analysis": {
+      "status": "warning",
+      "message": "Constraint has been violated"
+    }
+  },
+  {
+    "butlerId": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+    "butler": {
+      "id": "63e1f1b2-ef1e-11e8-b651-7b36d14b85ae",
+      "email": "fake-30118185@email.com",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "phoneNumber": "00094929353",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": true,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "20000.00",
+      "languageProf": null,
+      "cleaningExp": null,
+      "freezeReason": null,
+      "managedSchedule": true
+    },
+    "date": "2019-02-06",
+    "butlerAvailable": true,
+    "butlerWindowStartTime": "07:00:00",
+    "butlerWindowEndTime": "23:00:00",
+    "butlerAddressId": "3856298e-ea9f-11e7-ab75-ff87dd4db939",
+    "cost": 62218.70264905894,
+    "efficiency": 0.00016072337696278291,
+    "constraintsSatisfied": false,
+    "butlerWindowStartTimeSlack": 0.6597752769327275,
+    "butlerWindowEndTimeSlack": 0,
+    "trunc": false,
+    "anchoredVisits": [
+      {
+        "date": "2019-02-06",
+        "serviceId": "7cb2643c-1855-11e9-8f33-3fa792825eab",
+        "clientId": "7ad117d0-1855-11e9-8f21-1bd05ed2539b",
+        "butlerId": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "814aae00-1855-11e9-b075-e3f63d7ebe66",
+        "visitPlanDateRange": "[2019-02-06,)",
+        "visitPlanRecurrence": "n",
+        "hourlyRateOverride": "39.00",
+        "visitPlanComment": null,
+        "serviceAddressId": "7e2f5e14-1855-11e9-978f-93645b184f59",
+        "windowStartTime": "08:00:00",
+        "windowEndTime": "09:00:00",
+        "duration": "01:00:00",
+        "geopoint": {
+          "lat": -37.9927015,
+          "lng": 145.0405509
+        },
+        "startTime": "06:20",
+        "endTime": "07:20",
+        "windowStartTimeSlack": 1.6597752769327274,
+        "windowEndTimeSlack": 0,
+        "futurePlans": [
+          {
+            "id": "814aae00-1855-11e9-b075-e3f63d7ebe66",
+            "serviceId": "7cb2643c-1855-11e9-8f33-3fa792825eab",
+            "recurrence": "n",
+            "hourlyRateOverride": "39.00",
+            "comment": null,
+            "startDate": "2019-02-06",
+            "windowStartTime": "08:00:00",
+            "windowEndTime": "09:00:00",
+            "duration": "01:00:00"
+          },
+          {
+            "id": "831d1e84-1855-11e9-bfba-d770e0a23ed8",
+            "serviceId": "7cb2643c-1855-11e9-8f33-3fa792825eab",
+            "recurrence": "w",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-13",
+            "windowStartTime": "08:00:00",
+            "windowEndTime": "17:00:00",
+            "duration": "01:00:00"
+          }
+        ],
+        "firstVisitOfThisService": true,
+        "client": {
+          "id": "7ad117d0-1855-11e9-8f21-1bd05ed2539b",
+          "email": "fake-client-60254998@email.com",
+          "password": "$2a$13$nWgmT/kpQrOGbwOVHpyl7eWbtQwfh8gmjlR7HwLRonojwGwkgVuK.",
+          "firstName": "Kiera",
+          "lastName": "Nunez - Reyes",
+          "phoneNumber": "00094933664",
+          "facebookId": null,
+          "legacyUsername": "kieranunezeyes",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "7cb2643c-1855-11e9-8f33-3fa792825eab",
+          "clientId": "7ad117d0-1855-11e9-8f21-1bd05ed2539b",
+          "genderPref": "f",
+          "pets": false,
+          "errands": false,
+          "notes": "Access instructions: client at home\n\nPets: none\n\nTasks: just cleaning\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?: Yes. OK to cancel if no butler\n\nInvoicing instructions (if provided)",
+          "visitGuaranteed": false,
+          "languageProf": 0,
+          "clientRating": "5.00",
+          "clientLifetimeValue": "1.00",
+          "isOneOff": false,
+          "cancelFeeHasBeenWaived": false
+        },
+        "serviceAddress": {
+          "id": "7e2f5e14-1855-11e9-978f-93645b184f59",
+          "line1": "4/459 Beach Road",
+          "line2": null,
+          "locale": "Beaumaris",
+          "state": "VIC",
+          "postcode": "3193",
+          "country": "Australia",
+          "serviceId": "7cb2643c-1855-11e9-8f33-3fa792825eab",
+          "activeFrom": "2019-01-14",
+          "geopoint": {
+            "lat": -37.9927015,
+            "lng": 145.0405509
+          }
+        }
+      },
+      {
+        "date": "2019-02-06",
+        "serviceId": "1cf8af9a-0e20-11e9-9d24-072523344ce5",
+        "clientId": "1b9e1392-0e20-11e9-ad67-f35badc30171",
+        "butlerId": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "09e41dc4-1fb7-11e9-b0f1-378f09c0df57",
+        "visitPlanDateRange": "[2019-02-06,)",
+        "visitPlanRecurrence": "n",
+        "hourlyRateOverride": null,
+        "visitPlanComment": null,
+        "serviceAddressId": "1e9c0892-0e20-11e9-9300-df6e73792a1a",
+        "windowStartTime": "09:00:00",
+        "windowEndTime": "12:00:00",
+        "duration": "03:00:00",
+        "geopoint": {
+          "lat": -38.0267977,
+          "lng": 145.3571476
+        },
+        "startTime": "09:15",
+        "endTime": "12:15",
+        "windowStartTimeSlack": 0,
+        "windowEndTimeSlack": 0.22328380565913625,
+        "futurePlans": [
+          {
+            "id": "09e41dc4-1fb7-11e9-b0f1-378f09c0df57",
+            "serviceId": "1cf8af9a-0e20-11e9-9d24-072523344ce5",
+            "recurrence": "n",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-06",
+            "windowStartTime": "09:00:00",
+            "windowEndTime": "12:00:00",
+            "duration": "03:00:00"
+          },
+          {
+            "id": "09e36802-1fb7-11e9-a768-b76d7ab0f21e",
+            "serviceId": "1cf8af9a-0e20-11e9-9d24-072523344ce5",
+            "recurrence": "f",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-20",
+            "windowStartTime": "12:00:00",
+            "windowEndTime": "15:00:00",
+            "duration": "03:00:00"
+          }
+        ],
+        "firstVisitOfThisService": false,
+        "client": {
+          "id": "1b9e1392-0e20-11e9-ad67-f35badc30171",
+          "email": "fake-client-19337342@email.com",
+          "password": "$2a$13$bpcdM4mACcs5.pyV0vGk8OjBWGIG0mz6Ijtre5O1TDKyipj.i.3w2",
+          "firstName": "Karina",
+          "lastName": "Bloomfield",
+          "phoneNumber": "00079837952",
+          "facebookId": null,
+          "legacyUsername": "karina_bloomfield",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "1cf8af9a-0e20-11e9-9d24-072523344ce5",
+          "clientId": "1b9e1392-0e20-11e9-ad67-f35badc30171",
+          "genderPref": "n",
+          "pets": true,
+          "errands": false,
+          "notes": "Access instructions: will provide a key\n\nPets: dog\n\nTasks: just cleaning\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?: Yes. OK to cancel if no butler\n\nInvoicing instructions (if provided)",
+          "visitGuaranteed": false,
+          "languageProf": 0,
+          "clientRating": "5.00",
+          "clientLifetimeValue": "1.00",
+          "isOneOff": false,
+          "cancelFeeHasBeenWaived": false
+        },
+        "serviceAddress": {
+          "id": "1e9c0892-0e20-11e9-9300-df6e73792a1a",
+          "line1": "4/28 Buchanan Road",
+          "line2": null,
+          "locale": "Berwick",
+          "state": "VIC",
+          "postcode": "3806",
+          "country": "Australia",
+          "serviceId": "1cf8af9a-0e20-11e9-9d24-072523344ce5",
+          "activeFrom": "2019-01-01",
+          "geopoint": {
+            "lat": -38.0267977,
+            "lng": 145.3571476
+          }
+        }
+      },
+      {
+        "date": "2019-02-06",
+        "serviceId": "f571f384-1ea8-11e9-bfa7-9f663a2aa933",
+        "clientId": "f4621104-1ea8-11e9-86ad-d36f20382107",
+        "butlerId": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "fc36520a-1ea8-11e9-9506-1baa7bda2e9d",
+        "visitPlanDateRange": "[2019-02-06,2019-02-07)",
+        "visitPlanRecurrence": "f",
+        "hourlyRateOverride": null,
+        "visitPlanComment": null,
+        "serviceAddressId": "f6d9ae9c-1ea8-11e9-9a29-57982df8af35",
+        "windowStartTime": "08:00:00",
+        "windowEndTime": "17:00:00",
+        "duration": "02:00:00",
+        "geopoint": {
+          "lat": -37.7437822,
+          "lng": 145.0180023
+        },
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "windowStartTimeSlack": 0,
+        "windowEndTimeSlack": 0,
+        "futurePlans": [
+          {
+            "id": "fc36520a-1ea8-11e9-9506-1baa7bda2e9d",
+            "serviceId": "f571f384-1ea8-11e9-bfa7-9f663a2aa933",
+            "recurrence": "f",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-06",
+            "endDate": "2019-02-07",
+            "windowStartTime": "08:00:00",
+            "windowEndTime": "17:00:00",
+            "duration": "02:00:00"
+          }
+        ],
+        "firstVisitOfThisService": false,
+        "client": {
+          "id": "f4621104-1ea8-11e9-86ad-d36f20382107",
+          "email": "fake-client-49954478@email.com",
+          "password": "$2a$13$mTgX3wtKs2GDqm7w7vTfN.zDN799C1xfoyKH019lg2Lz7DsoMH47S",
+          "firstName": "Mun",
+          "lastName": "Bau",
+          "phoneNumber": "00097545817",
+          "facebookId": null,
+          "legacyUsername": "munbau",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "f571f384-1ea8-11e9-bfa7-9f663a2aa933",
+          "clientId": "f4621104-1ea8-11e9-86ad-d36f20382107",
+          "genderPref": "f",
+          "pets": false,
+          "errands": false,
+          "notes": "Access instructions: Available on the time of the visit, \n\n Pets: No \n\nTasks: General House Cleaning, \n\nBooked by: Gelina Sale  11:50 am  \n Backup for First Visit day and time: \n\nCx agree that visit cannot be guaranteed?: \n Invoicing instructions (if provided): Upload",
+          "visitGuaranteed": true,
+          "languageProf": 0,
+          "clientRating": "5.00",
+          "clientLifetimeValue": "1.00",
+          "isOneOff": null,
+          "cancelFeeHasBeenWaived": false
+        },
+        "serviceAddress": {
+          "id": "f6d9ae9c-1ea8-11e9-9a29-57982df8af35",
+          "line1": "9 Emerald Street",
+          "line2": null,
+          "locale": "Preston",
+          "state": "VIC",
+          "postcode": "3072",
+          "country": "Australia",
+          "serviceId": "f571f384-1ea8-11e9-bfa7-9f663a2aa933",
+          "activeFrom": "2019-01-23",
+          "geopoint": {
+            "lat": -37.7437822,
+            "lng": 145.0180023
+          }
+        }
+      },
+      {
+        "date": "2019-02-06",
+        "serviceId": "06d8e44a-abe8-11e8-9abc-63a480b32e12",
+        "clientId": "05b85262-abe8-11e8-bcce-5778e9bbe278",
+        "butlerId": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "89bbf784-1499-11e9-8382-ab0e82c7c1c6",
+        "visitPlanDateRange": "[2019-02-06,)",
+        "visitPlanRecurrence": "n",
+        "hourlyRateOverride": null,
+        "visitPlanComment": null,
+        "serviceAddressId": "07f7cbfc-abe8-11e8-b313-ef039368d161",
+        "windowStartTime": "13:00:00",
+        "windowEndTime": "17:00:00",
+        "duration": "04:00:00",
+        "geopoint": {
+          "lat": -37.836424,
+          "lng": 145.068584
+        },
+        "startTime": "17:55",
+        "endTime": "21:55",
+        "windowStartTimeSlack": 0,
+        "windowEndTimeSlack": 4.904459134725,
+        "futurePlans": [
+          {
+            "id": "89bbf784-1499-11e9-8382-ab0e82c7c1c6",
+            "serviceId": "06d8e44a-abe8-11e8-9abc-63a480b32e12",
+            "recurrence": "n",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-06",
+            "windowStartTime": "13:00:00",
+            "windowEndTime": "17:00:00",
+            "duration": "04:00:00"
+          },
+          {
+            "id": "8aa03c7c-205c-11e9-90e9-8bd00124705d",
+            "serviceId": "06d8e44a-abe8-11e8-9abc-63a480b32e12",
+            "recurrence": "w",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-13",
+            "windowStartTime": "13:00:00",
+            "windowEndTime": "17:00:00",
+            "duration": "04:00:00"
+          }
+        ],
+        "firstVisitOfThisService": false,
+        "client": {
+          "id": "05b85262-abe8-11e8-bcce-5778e9bbe278",
+          "email": "fake-client-67437327@email.com",
+          "password": "$2a$13$h8U...qA0dIDldemOcTd/.HHcqdtsI0qOZwGIAXmL.6Y56CNkjOpu",
+          "firstName": "David",
+          "lastName": "Oxley",
+          "phoneNumber": "00042295917",
+          "facebookId": null,
+          "legacyUsername": "8lansell1",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "06d8e44a-abe8-11e8-9abc-63a480b32e12",
+          "clientId": "05b85262-abe8-11e8-bcce-5778e9bbe278",
+          "genderPref": "f",
+          "pets": true,
+          "errands": false,
+          "notes": "Preferred visit day: no other day or time that works, \n\nAccess: partner will be at home, ongoing TBC\n\nCleaning",
+          "visitGuaranteed": false,
+          "languageProf": null,
+          "clientRating": "0.00",
+          "clientLifetimeValue": "0.00",
+          "isOneOff": false,
+          "cancelFeeHasBeenWaived": false
+        },
+        "serviceAddress": {
+          "id": "07f7cbfc-abe8-11e8-b313-ef039368d161",
+          "line1": "8 Lansell Crescent",
+          "line2": null,
+          "locale": "Camberwell",
+          "state": "VIC",
+          "postcode": "3124",
+          "country": "Australia",
+          "serviceId": "06d8e44a-abe8-11e8-9abc-63a480b32e12",
+          "activeFrom": "2018-08-30",
+          "geopoint": {
+            "lat": -37.836424,
+            "lng": 145.068584
+          }
+        }
+      }
+    ],
+    "analysis": {
+      "status": "warning",
+      "message": "Constraint has been violated"
+    }
+  },
+  {
+    "butlerId": "c54a68f6-f697-11e7-8b9a-cf2176dc9e4a",
+    "butler": {
+      "id": "c54a68f6-f697-11e7-8b9a-cf2176dc9e4a",
+      "email": "fake-53162920@email.com",
+      "firstName": "ALLOCATE",
+      "lastName": "(Syd2)",
+      "phoneNumber": "00082015102",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": true,
+      "handlesPets": false,
+      "hasCar": false,
+      "maxTravelDistance": "25000.00",
+      "languageProf": null,
+      "cleaningExp": null,
+      "freezeReason": null,
+      "managedSchedule": true
+    },
+    "date": "2019-02-05",
+    "butlerAvailable": true,
+    "butlerWindowStartTime": "07:00:00",
+    "butlerWindowEndTime": "23:00:00",
+    "butlerAddressId": "d7ce580c-f697-11e7-afb8-1f2becf12a04",
+    "cost": 21137.351344538085,
+    "efficiency": 0.0002365480858268463,
+    "constraintsSatisfied": false,
+    "butlerWindowStartTimeSlack": 0,
+    "butlerWindowEndTimeSlack": 0,
+    "trunc": false,
+    "anchoredVisits": [
+      {
+        "date": "2019-02-05",
+        "serviceId": "e07f3a22-22ae-11e9-9e4b-53d9c8ba5477",
+        "clientId": "df1bf59e-22ae-11e9-ad6e-8b2cee572714",
+        "butlerId": "c54a68f6-f697-11e7-8b9a-cf2176dc9e4a",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "e5db9d80-22ae-11e9-88a8-cb4867a4a3d1",
+        "visitPlanDateRange": "[2019-02-05,)",
+        "visitPlanRecurrence": "n",
+        "hourlyRateOverride": "39.00",
+        "visitPlanComment": null,
+        "serviceAddressId": "e1d8caa0-22ae-11e9-8ffb-87b43c6e3d59",
+        "windowStartTime": "09:00:00",
+        "windowEndTime": "11:00:00",
+        "duration": "02:00:00",
+        "geopoint": {
+          "lat": -33.9344191,
+          "lng": 151.1976318
+        },
+        "startTime": "07:00",
+        "endTime": "09:00",
+        "windowStartTimeSlack": 1.9999999999999998,
+        "windowEndTimeSlack": 0,
+        "futurePlans": [
+          {
+            "id": "e5db9d80-22ae-11e9-88a8-cb4867a4a3d1",
+            "serviceId": "e07f3a22-22ae-11e9-9e4b-53d9c8ba5477",
+            "recurrence": "n",
+            "hourlyRateOverride": "39.00",
+            "comment": null,
+            "startDate": "2019-02-05",
+            "windowStartTime": "09:00:00",
+            "windowEndTime": "11:00:00",
+            "duration": "02:00:00"
+          },
+          {
+            "id": "e805abdc-22ae-11e9-8ccf-6fa5d9cfebbc",
+            "serviceId": "e07f3a22-22ae-11e9-9e4b-53d9c8ba5477",
+            "recurrence": "f",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-19",
+            "windowStartTime": "08:00:00",
+            "windowEndTime": "17:00:00",
+            "duration": "02:00:00"
+          }
+        ],
+        "firstVisitOfThisService": true,
+        "client": {
+          "id": "df1bf59e-22ae-11e9-ad6e-8b2cee572714",
+          "email": "fake-client-3730382@email.com",
+          "password": "$2a$13$pLi1zTp14gb7hhOFeVLd2eW7SPj/2gnaJOdglv5Urs.ux8gCkmkzi",
+          "firstName": "Paul",
+          "lastName": "Martin",
+          "phoneNumber": "00041407075",
+          "facebookId": null,
+          "legacyUsername": "maori_viking",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "e07f3a22-22ae-11e9-9e4b-53d9c8ba5477",
+          "clientId": "df1bf59e-22ae-11e9-ad6e-8b2cee572714",
+          "genderPref": "f",
+          "pets": false,
+          "errands": false,
+          "notes": "NOTES:\n\nAccess instructions: at home during the visit\nPets: N/A\nTasks: General housecleaning services etc\nAlternative contact (if provided)\n——\nBooked by: Rosabelle (Sale)\nBackup for First Visit day and time:\nCx agree that visit cannot be guaranteed?:\nInvoicing instructions (if provided)",
+          "visitGuaranteed": true,
+          "languageProf": 0,
+          "clientRating": "5.00",
+          "clientLifetimeValue": "1.00",
+          "isOneOff": null,
+          "cancelFeeHasBeenWaived": null
+        },
+        "serviceAddress": {
+          "id": "e1d8caa0-22ae-11e9-8ffb-87b43c6e3d59",
+          "line1": "20/52 Wentworth Avenue",
+          "line2": null,
+          "locale": "Mascot",
+          "state": "NSW",
+          "postcode": "2020",
+          "country": "Australia",
+          "serviceId": "e07f3a22-22ae-11e9-9e4b-53d9c8ba5477",
+          "activeFrom": "2019-01-28",
+          "geopoint": {
+            "lat": -33.9344191,
+            "lng": 151.1976318
+          }
+        }
+      },
+      {
+        "date": "2019-02-05",
+        "serviceId": "2163251c-1ddc-11e9-8819-776a8356a240",
+        "clientId": "2043e4b4-1ddc-11e9-89db-8339fe7a468d",
+        "butlerId": "c54a68f6-f697-11e7-8b9a-cf2176dc9e4a",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "259e6d76-1ddc-11e9-a826-1f40a1008de1",
+        "visitPlanDateRange": "[2019-02-05,)",
+        "visitPlanRecurrence": "n",
+        "hourlyRateOverride": "39.00",
+        "visitPlanComment": null,
+        "serviceAddressId": "22b17040-1ddc-11e9-a825-27a174243a4d",
+        "windowStartTime": "09:30:00",
+        "windowEndTime": "12:30:00",
+        "duration": "03:00:00",
+        "geopoint": {
+          "lat": -33.8093133,
+          "lng": 151.1658776
+        },
+        "startTime": "10:05",
+        "endTime": "13:05",
+        "windowStartTimeSlack": 0,
+        "windowEndTimeSlack": 0.579306741531287,
+        "futurePlans": [
+          {
+            "id": "259e6d76-1ddc-11e9-a826-1f40a1008de1",
+            "serviceId": "2163251c-1ddc-11e9-8819-776a8356a240",
+            "recurrence": "n",
+            "hourlyRateOverride": "39.00",
+            "comment": null,
+            "startDate": "2019-02-05",
+            "windowStartTime": "09:30:00",
+            "windowEndTime": "12:30:00",
+            "duration": "03:00:00"
+          },
+          {
+            "id": "27444204-1ddc-11e9-a59f-1febdc3c1cc4",
+            "serviceId": "2163251c-1ddc-11e9-8819-776a8356a240",
+            "recurrence": "f",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-19",
+            "windowStartTime": "09:30:00",
+            "windowEndTime": "12:30:00",
+            "duration": "03:00:00"
+          }
+        ],
+        "firstVisitOfThisService": true,
+        "client": {
+          "id": "2043e4b4-1ddc-11e9-89db-8339fe7a468d",
+          "email": "fake-client-62933853@email.com",
+          "password": "$2a$13$gKrBMukt6yuz6mGdGcaJheQz3GSsQ/pZZ6BtK/YjTFksRRc5Ut4Ga",
+          "firstName": "Michaela",
+          "lastName": "Durrant",
+          "phoneNumber": "00041426427",
+          "facebookId": null,
+          "legacyUsername": "michaeladurrant",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "2163251c-1ddc-11e9-8819-776a8356a240",
+          "clientId": "2043e4b4-1ddc-11e9-89db-8339fe7a468d",
+          "genderPref": "n",
+          "pets": false,
+          "errands": false,
+          "notes": "Access instructions: client at home\n\nPets: none\n\nTasks: mainly cleaning, folding,ironing\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?:\n\nInvoicing instructions (if provided)",
+          "visitGuaranteed": true,
+          "languageProf": 0,
+          "clientRating": "5.00",
+          "clientLifetimeValue": "1.00",
+          "isOneOff": null,
+          "cancelFeeHasBeenWaived": false
+        },
+        "serviceAddress": {
+          "id": "22b17040-1ddc-11e9-a825-27a174243a4d",
+          "line1": "7 Karilla Avenue",
+          "line2": null,
+          "locale": "Lane Cove North",
+          "state": "NSW",
+          "postcode": "2066",
+          "country": "Australia",
+          "serviceId": "2163251c-1ddc-11e9-8819-776a8356a240",
+          "activeFrom": "2019-01-22",
+          "geopoint": {
+            "lat": -33.8093133,
+            "lng": 151.1658776
+          }
+        }
+      }
+    ],
+    "analysis": {
+      "status": "warning",
+      "message": "Constraint has been violated"
+    }
+  },
+  {
+    "butlerId": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+    "butler": {
+      "id": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+      "email": "fake-30118185@email.com",
+      "firstName": "ALLOCATE",
+      "lastName": "(Mel)",
+      "phoneNumber": "00094929353",
+      "facebookId": null,
+      "gender": "f",
+      "rating": "5.00",
+      "onFreeze": true,
+      "handlesPets": true,
+      "hasCar": false,
+      "maxTravelDistance": "20000.00",
+      "languageProf": null,
+      "cleaningExp": null,
+      "freezeReason": null,
+      "managedSchedule": true
+    },
+    "date": "2019-02-03",
+    "butlerAvailable": true,
+    "butlerWindowStartTime": "07:00:00",
+    "butlerWindowEndTime": "23:00:00",
+    "butlerAddressId": "3856298e-ea9f-11e7-ab75-ff87dd4db939",
+    "cost": 8.18580241117028,
+    "efficiency": 0.6108136684532038,
+    "constraintsSatisfied": true,
+    "butlerWindowStartTimeSlack": 0,
+    "butlerWindowEndTimeSlack": 0,
+    "trunc": false,
+    "anchoredVisits": [
+      {
+        "date": "2019-02-03",
+        "serviceId": "41aa0694-c90c-11e8-8a94-531c391007f1",
+        "clientId": "3fd27810-c90c-11e8-8c63-5725d4ddbbc9",
+        "butlerId": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "32d41604-0599-11e9-bb80-2f20d87ccad1",
+        "visitPlanDateRange": "[2019-02-03,)",
+        "visitPlanRecurrence": "f",
+        "hourlyRateOverride": null,
+        "visitPlanComment": null,
+        "serviceAddressId": "4339d020-c90c-11e8-b1e6-ff7ee25cc762",
+        "windowStartTime": "08:00:00",
+        "windowEndTime": "17:00:00",
+        "duration": "02:00:00",
+        "geopoint": {
+          "lat": -37.899038,
+          "lng": 145.113577
+        },
+        "startTime": "08:00",
+        "endTime": "10:00",
+        "windowStartTimeSlack": 0,
+        "windowEndTimeSlack": 0,
+        "futurePlans": [
+          {
+            "id": "32d41604-0599-11e9-bb80-2f20d87ccad1",
+            "serviceId": "41aa0694-c90c-11e8-8a94-531c391007f1",
+            "recurrence": "f",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-03",
+            "windowStartTime": "08:00:00",
+            "windowEndTime": "17:00:00",
+            "duration": "02:00:00"
+          }
+        ],
+        "firstVisitOfThisService": false,
+        "client": {
+          "id": "3fd27810-c90c-11e8-8c63-5725d4ddbbc9",
+          "email": "fake-client-94454249@email.com",
+          "password": "$2a$13$.tGi2tJ0buXxbPpIz9hKK.Qt.eL1GLBejYwcZ9WbXVpOBGrR4AP8W",
+          "firstName": "Ganga",
+          "lastName": "Priyadarshini",
+          "phoneNumber": "0002375264",
+          "facebookId": null,
+          "legacyUsername": "ganga",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "41aa0694-c90c-11e8-8a94-531c391007f1",
+          "clientId": "3fd27810-c90c-11e8-8c63-5725d4ddbbc9",
+          "genderPref": "f",
+          "pets": false,
+          "errands": false,
+          "notes": "Access instructions: Client or another family member will be at home\n\nPets: none\n\nTasks: clean 3 bed and 2 bed, basic housekeeping, vacuuming, shower cleaning, dusting, toilets\n\nAlternative contact (if provided):\n\n——\n[Admin only]\nBooked by:\nBackup for First Visit day and time: Monday 9am - or after hours, Fridays\nCx agree that visit cannot be guaranteed?:\nInvoicing instructions (if provided):",
+          "visitGuaranteed": false,
+          "languageProf": null,
+          "clientRating": "0.00",
+          "clientLifetimeValue": "0.00",
+          "isOneOff": false,
+          "cancelFeeHasBeenWaived": false
+        },
+        "serviceAddress": {
+          "id": "4339d020-c90c-11e8-b1e6-ff7ee25cc762",
+          "line1": "1/14 Carmichael Road",
+          "line2": null,
+          "locale": "Oakleigh East",
+          "state": "VIC",
+          "postcode": "3166",
+          "country": "Australia",
+          "serviceId": "41aa0694-c90c-11e8-8a94-531c391007f1",
+          "activeFrom": "2018-10-06",
+          "geopoint": {
+            "lat": -37.899038,
+            "lng": 145.113577
+          }
+        }
+      },
+      {
+        "date": "2019-02-03",
+        "serviceId": "d068da02-e867-11e8-8b1b-0325ef6b58b1",
+        "clientId": "ceaba6fe-e867-11e8-be87-d7820dccc62a",
+        "butlerId": "16bc1392-ea9f-11e7-97e6-e38c05c1159f",
+        "hourlyPayOverride": null,
+        "serviceButlerComment": null,
+        "visitPlanId": "bf32092c-1ba0-11e9-865a-1fc03e8c6167",
+        "visitPlanDateRange": "[2019-02-03,)",
+        "visitPlanRecurrence": "f",
+        "hourlyRateOverride": null,
+        "visitPlanComment": null,
+        "serviceAddressId": "d2b4c1e0-e867-11e8-8f46-e35f59193c6f",
+        "windowStartTime": "08:00:00",
+        "windowEndTime": "17:00:00",
+        "duration": "03:00:00",
+        "geopoint": {
+          "lat": -37.970175,
+          "lng": 145.123584
+        },
+        "startTime": "10:45",
+        "endTime": "13:45",
+        "windowStartTimeSlack": 0,
+        "windowEndTimeSlack": 0,
+        "futurePlans": [
+          {
+            "id": "bf32092c-1ba0-11e9-865a-1fc03e8c6167",
+            "serviceId": "d068da02-e867-11e8-8b1b-0325ef6b58b1",
+            "recurrence": "f",
+            "hourlyRateOverride": null,
+            "comment": null,
+            "startDate": "2019-02-03",
+            "windowStartTime": "08:00:00",
+            "windowEndTime": "17:00:00",
+            "duration": "03:00:00"
+          }
+        ],
+        "firstVisitOfThisService": false,
+        "client": {
+          "id": "ceaba6fe-e867-11e8-be87-d7820dccc62a",
+          "email": "fake-client-96380446@email.com",
+          "password": "$2a$13$z/cSgOtddw/722T2tTMQiOPLqHinMY4tpETt4nzj2ecjGujmqiKEK",
+          "firstName": "Renee",
+          "lastName": "Waller",
+          "phoneNumber": "00085851910",
+          "facebookId": null,
+          "legacyUsername": "reneemwwaller",
+          "voucherCode": null,
+          "voucherHours": null
+        },
+        "service": {
+          "id": "d068da02-e867-11e8-8b1b-0325ef6b58b1",
+          "clientId": "ceaba6fe-e867-11e8-be87-d7820dccc62a",
+          "genderPref": "n",
+          "pets": true,
+          "errands": false,
+          "notes": "Access instructions: client at home\n\nPets: dog\n\nTasks: vacuuming,dusting,mopping\n\nAlternative contact (if provided)\n\n——\n\n[Admin only]\nBooked by: Alvin\n\nBackup for First Visit day and time: none\n\nCx agree that visit cannot be guaranteed?:\n\nInvoicing instructions (if provided)",
+          "visitGuaranteed": true,
+          "languageProf": 1,
+          "clientRating": "5.00",
+          "clientLifetimeValue": "1.00",
+          "isOneOff": false,
+          "cancelFeeHasBeenWaived": false
+        },
+        "serviceAddress": {
+          "id": "d2b4c1e0-e867-11e8-8f46-e35f59193c6f",
+          "line1": "9/53 Tootal Road",
+          "line2": null,
+          "locale": "Dingley Village",
+          "state": "VIC",
+          "postcode": "3172",
+          "country": "Australia",
+          "serviceId": "d068da02-e867-11e8-8b1b-0325ef6b58b1",
+          "activeFrom": "2018-11-14",
+          "geopoint": {
+            "lat": -37.970175,
+            "lng": 145.123584
+          }
+        }
+      }
+    ],
+    "analysis": {
+      "status": "ok"
+    }
+  }
+]
