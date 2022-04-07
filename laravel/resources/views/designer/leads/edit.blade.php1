@@ -1,0 +1,150 @@
+@extends('layouts.app')
+@section('title', 'Edit New Leads')
+@section('content')
+
+<div class="row">
+	<div class="col-md-12">
+		<!-- BEGIN SAMPLE FORM PORTLET-->
+		<div class="portlet box blue">
+			<div class="portlet-title">
+				<div class="caption">
+					<i class="fa fa-tasks"></i> @yield('title')
+				</div>
+				<div class="tools">
+					<a href="" class="collapse" ></a>					
+				</div>
+			</div>
+			
+			<div class="portlet-body form">
+			
+				@if ($message = Session::get('success'))
+					<div class="alert alert-success text-center">
+						<button type="button" class="close" data-dismiss="alert">×</button>	
+						<strong>{{ $message }}</strong>
+					</div>
+				@endif
+				
+				<form class="Leadsform" action="{{ route('admin-edit-leads',$leads->leads_id) }}" method="post">
+					{{ csrf_field() }}
+					<div class="form-body">
+						<div class="row">	
+							<div class="col-sm-6">
+								<label>Leads Name</label>
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-sliders"></i></span>
+									<input type="text" name='leads_name' class="form-control" value="{{$leads->leads_name}}" placeholder="Leads Name">
+								</div>
+								@if ($errors->has('leads_name'))
+									<span class="help-block-error">{{ $errors->first('leads_name') }}</span>
+								@endif
+							</div>
+							<div class="col-sm-6">
+								<label>Leads Link</label>
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-link"></i></span>
+									<input type="text" name='leads_link' class="form-control" value="{{$leads->leads_link}}" placeholder="Leads Link">
+								</div>
+								@if ($errors->has('leads_link'))
+									<span class="help-block-error">{{ $errors->first('leads_link') }}</span>
+								@endif
+							</div>
+							<div class="col-sm-6">
+								<label>Client Email </label>
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+									<input type="text" name='client_email' class="form-control" value="{{$leads->client_email}}" placeholder="Client Email">
+								</div>
+								@if ($errors->has('client_email'))
+									<span class="help-block-error">{{ $errors->first('client_email') }}</span>
+								@endif
+							</div>
+							<div class="col-sm-6">
+								<label>Client Phone</label>
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-phone"></i></span>
+									<input type="text" name='client_phone' class="form-control" value="{{$leads->client_phone}}" placeholder="Client Phone">
+								</div>
+								@if ($errors->has('client_phone'))
+									<span class="help-block-error">{{ $errors->first('client_phone') }}</span>
+								@endif
+							</div>
+							<div class="col-sm-6">
+								<label>Client VAT</label>
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-sliders"></i></span>
+									<input type="text" name='client_vat' class="form-control" value="{{$leads->client_vat}}" placeholder="Client VAT">
+								</div>
+								@if ($errors->has('client_vat'))
+									<span class="help-block-error">{{ $errors->first('client_vat') }}</span>
+								@endif
+							</div>
+							<div class="col-sm-6">
+								<label>Client Address</label>
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-map-marker"></i></span>
+									<input type="text" name='client_address' class="form-control" value="{{$leads->client_address}}" placeholder="Client Address">
+								</div>
+								@if ($errors->has('client_address'))
+									<span class="help-block-error">{{ $errors->first('client_address') }}</span>
+								@endif
+							</div>
+							<div class="col-sm-6">
+								<label>Designer Name</label>
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-user"></i></span>
+									<select class="form-control" name="designer_id" >
+										<option value="">Select Designer</option>
+										@foreach($user as $users)
+											<option @if($leads->designer_id == $users->designer_id) selected="selected" @endif value="{{$users->designer_id}}">{{$users->name}}</option>
+										@endforeach
+									</select>
+								</div>
+								@if ($errors->has('designer_id'))
+									<span class="help-block-error">{{ $errors->first('designer_id') }}</span>
+								@endif
+							</div>
+							
+							
+							<div class="col-sm-6">
+								<label>Client Person</label>
+								<div class="input-group">
+									<span class="input-group-addon"><i class="fa fa-user"></i></span>
+									<input type="text" name='client_person' class="form-control" value="{{$leads->client_person}}" placeholder="Client Person">
+								</div>
+								@if ($errors->has('client_person'))
+									<span class="help-block-error">{{ $errors->first('client_person') }}</span>
+								@endif
+							</div>
+						</div>	
+						<div class="form-group">
+							<label> Prices</label>
+							<div class="input-group">
+								<textarea class="ckeditor form-control" name="leads_prices" rows="6"  >{{$leads->leads_prices}}</textarea>
+							</div>
+							@if ($errors->has('leads_prices'))
+								<span class="help-block-error">{{ $errors->first('leads_prices') }}</span>
+							@endif
+						</div>
+						<div class="form-group">
+							<label>Comments</label>
+							<div class="input-group">
+								<textarea class="ckeditor form-control" name="comment" rows="6"  >{{$leads->comment}}</textarea>
+							</div>
+						</div>
+						
+					</div>
+					<div class="form-actions">
+						<button type="submit" class="btn blue">Submit</button>
+					</div>
+				</form>
+			</div>
+		
+		</div>
+		<!-- END SAMPLE FORM PORTLET-->
+		
+	</div>
+	
+</div>
+
+
+@stop

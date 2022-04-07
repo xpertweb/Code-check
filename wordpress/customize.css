@@ -1,0 +1,69 @@
+.detailBtn:not(.with-border) a {
+	color: #fff;
+}
+body:not(.home) nav .nav-flexbox .nav-flex-item li.currency.dropdown-hover,body:not(.home) nav .nav-flexbox .nav-flex-item li.language.dropdown-hover {
+	z-index: inherit;
+}
+body:not(.home) nav .nav-flexbox .nav-flex-item li.currency.dropdown-hover {
+	z-index: inherit;
+}
+body.page-template-search  .picker-relative {
+    z-index: 1;
+}
+body.page-template-search  #search-bar .flex-form .form-flex-item.period
+{
+	z-index: 1;
+}
+body.page-template-search  .search-flag.animated-search {
+	height: 69px;
+}
+.page-template-yacht_single_page .flag-redbar {
+	margin-top: -1px;
+}
+body:not(.home) nav .nav-flexbox .nav-flex-item li .nav-dropdown {
+	z-index: 99999;
+}
+.contactSect {
+	max-width: 1200px;
+	margin: 40px auto;
+	min-height: 200px;
+}
+.contactSect p {
+	margin-bottom: 24px;
+	font-family: AvenirNextCyrRegular;
+	font-size: 14px;
+	line-height: normal;
+}
+.artiless .right-block h2 {
+	font-size: 28px;
+	color: #04253f;
+	font-family: AvenirNextCyrDemi;
+	margin-bottom: 22px;
+	margin-top: 60px;
+	text-transform: capitalize;
+	text-align: left;
+}
+.artiless .right-block p {
+	margin-bottom: 15px;
+}
+.cont_img .title_under_image {
+	margin-top: 0 !important;
+}
+@media all and (-ms-high-contrast:none) {
+	body .search-page12 #list .one-slide .inner-slider .inner-slider-hover {
+		bottom: 0px;
+	}
+
+	.search-page12 .search-block-right .flex-custom {
+		display: block;
+	}
+
+	#list {
+		flex-basis: auto
+	}
+
+	.search-block-right .one-slide .inner-content .from-to ul li.calender_ img {
+		margin-right: 17px;
+	}
+
+}
